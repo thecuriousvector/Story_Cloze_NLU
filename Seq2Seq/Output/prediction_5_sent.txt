@@ -1,0 +1,1871 @@
+<S> He was happy . </S>
+<S> The boy watched her night . </S>
+<S> The boy watched her . </S>
+<S> Gina ' s mother was very proud . </S>
+<S> I was very proud . </S>
+<S> I was angry . </S>
+<S> The boy watched him . </S>
+<S> His boss got him . </S>
+<S> John was upset . </S>
+<S> She was very proud . </S>
+<S> The boy watched her time . </S>
+<S> The man was very angry . </S>
+<S> She was very happy . </S>
+<S> So was a angry . </S>
+<S> Jim was very proud . </S>
+<S> Neil was pleased . </S>
+<S> So he got him . </S>
+<S> Mary her cat . </S>
+<S> The boy watched off . </S>
+<S> He got a great so he wouldn ' t have to borrow it . </S>
+<S> She loved her mom . </S>
+<S> The boy watched her '
+<S> The boy watched her . </S>
+<S> Jim got a job . </S>
+<S> The boy watched her day . </S>
+<S> Todd was upset . </S>
+<S> The boy watched her child . </S>
+<S> Ron was very happy . </S>
+<S> He got a job . </S>
+<S> Joe got a job . </S>
+<S> I was very angry . </S>
+<S> Jim was angry . </S>
+<S> Joe was a angry . </S>
+<S> He was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Bobby was very happy . </S>
+<S> The boy watched her day . </S>
+<S> I was very proud . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her . </S>
+<S> We had a great time . </S>
+<S> She decided to buy a job . </S>
+<S> The man watched him . </S>
+<S> He got a job . </S>
+<S> I was very angry . </S>
+<S> She took her mother . </S>
+<S> They made a great time . </S>
+<S> The mom watched him . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched her time . </S>
+<S> She loved her cat . </S>
+<S> I was angry at my mom . </S>
+<S> John was upset . </S>
+<S> Jim was pleased . </S>
+<S> They was pleased . </S>
+<S> The boy watched her cat . </S>
+<S> Jim was pleased . </S>
+<S> I was very angry . </S>
+<S> Bobby was pleased . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was very happy . </S>
+<S> The boy watched him . </S>
+<S> The people watched the wolf away . </S>
+<S> He was pleased . </S>
+<S> Jim was very proud . </S>
+<S> I was very angry . </S>
+<S> She was pleased . </S>
+<S> The boy watched her . </S>
+<S> He got a job . </S>
+<S> She loved her cat . </S>
+<S> The boy watched her ' s skirts . </S>
+<S> The boy watched her cats for her . </S>
+<S> He got a job . </S>
+<S> Bob loved her friends . </S>
+<S> The boy watched her day . </S>
+<S> Bobby was pleased . </S>
+<S> We had a great time . </S>
+<S> The boy got him . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> He decided to go to a shelter . </S>
+<S> Pam was a good hostess . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was pleased . </S>
+<S> Tim was pleased . </S>
+<S> I got a great time . </S>
+<S> She was happy . </S>
+<S> The boy watched her cat . </S>
+<S> She was relieved . </S>
+<S> Jim decided to go to a shelter . </S>
+<S> He was pleased . </S>
+<S> John went home . </S>
+<S> The boy watched her day . </S>
+<S> She was pleased . </S>
+<S> It was pleased . </S>
+<S> He was pleased . </S>
+<S> The boy watched her time . </S>
+<S> Joe got a job . </S>
+<S> The boy watched her dog . </S>
+<S> Jim was pleased . </S>
+<S> We had a great time . </S>
+<S> The boy watched her . </S>
+<S> Neil was pleased . </S>
+<S> Mary was upset . </S>
+<S> The police told him . </S>
+<S> I was very angry . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her day . </S>
+<S> Jim was very proud . </S>
+<S> They was happy . </S>
+<S> He was pleased . </S>
+<S> She was very proud . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> He was pleased . </S>
+<S> I was angry at my mom . </S>
+<S> He was pleased . </S>
+<S> The boy watched her friend for her . </S>
+<S> Jim was proud . </S>
+<S> The man watched him . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> Brad was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her time . </S>
+<S> The boy watched her cats . </S>
+<S> Jim was upset . </S>
+<S> The boy watched him . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her night . </S>
+<S> Paul got a job so he wouldn ' t have to borrow . </S>
+<S> The boy watched her day . </S>
+<S> I was very angry . </S>
+<S> It was a great hostess . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> Gina ' s teacher shared her time . </S>
+<S> He got a job so he wouldn . </S>
+<S> Jim was pleased . </S>
+<S> The man told him . </S>
+<S> KIm breathlessly saved the child . </S>
+<S> He got a job . </S>
+<S> She began brainstorming a new ice cream recipe . </S>
+<S> She loved her cat . </S>
+<S> We bought a great time . </S>
+<S> The boy watched him . </S>
+<S> Tommy was relieved . </S>
+<S> The boy watched her cats . </S>
+<S> Amy was very proud . </S>
+<S> Jim had a great time . </S>
+<S> Jim was very proud . </S>
+<S> Gina ' s teacher loved her mom . </S>
+<S> John was very angry . </S>
+<S> Ben was pleased . </S>
+<S> Bobby was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> The man got him . </S>
+<S> Bob was very proud . </S>
+<S> John was very angry . </S>
+<S> Neil was pleased . </S>
+<S> John was upset . </S>
+<S> I was very proud . </S>
+<S> Todd ' s knees shook as he skated . </S>
+<S> The boy watched her cats for her . </S>
+<S> Sal got a great time . </S>
+<S> She loved her time . </S>
+<S> The boy watched him . </S>
+<S> Joe was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> We made a great time . </S>
+<S> She was proud . </S>
+<S> She was excited . </S>
+<S> The boy watched her day . </S>
+<S> Tim was very proud . </S>
+<S> The man was very proud . </S>
+<S> She was overjoyed . </S>
+<S> He got a job so he wouldn ' t have to borrow it . </S>
+<S> Sal was very proud . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Jim was very proud . </S>
+<S> John was very proud . </S>
+<S> He was pleased . </S>
+<S> The boy watched her cat . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> Gina was very happy . </S>
+<S> The boy watched him . </S>
+<S> Gina was very proud . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her cats for her . </S>
+<S> It was pleased . </S>
+<S> We never never rent from that car company again . </S>
+<S> The mother got him . </S>
+<S> I made a great time . </S>
+<S> John was very angry . </S>
+<S> I was very angry . </S>
+<S> I was very grateful . </S>
+<S> She was proud . </S>
+<S> Gina was excited . </S>
+<S> She was pleased . </S>
+<S> When her time . </S>
+<S> The boy watched her ' her . </S>
+<S> I was able . </S>
+<S> The boy was very proud . </S>
+<S> She was very proud . </S>
+<S> Bobby was pleased . </S>
+<S> Jim was pleased . </S>
+<S> He got a job . </S>
+<S> The boy watched her to her mom . </S>
+<S> His mother got him . </S>
+<S> The boy watched her . </S>
+<S> Sal was very proud . </S>
+<S> The boy watched him . </S>
+<S> We made a great time . </S>
+<S> Sal had a great time . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched her . </S>
+<S> They finally spending time . </S>
+<S> The boy told him . </S>
+<S> He was pleased . </S>
+<S> Bob was very proud . </S>
+<S> He was pleased . </S>
+<S> Todd was pleased . </S>
+<S> Neil was very proud . </S>
+<S> Gina was very happy . </S>
+<S> I was very angry . </S>
+<S> The man watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy was very angry . </S>
+<S> The boy watched him . </S>
+<S> Bob was very proud . </S>
+<S> They was happy . </S>
+<S> The boy watched her day . </S>
+<S> Gina was very happy . </S>
+<S> Bob was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> The boy watched him . </S>
+<S> Joe got a job . </S>
+<S> Gina was upset . </S>
+<S> I got a lot . </S>
+<S> I was angry . </S>
+<S> Candice loved her mom . </S>
+<S> We had a great time . </S>
+<S> The boy watched her friend for her . </S>
+<S> The boy was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was pleased . </S>
+<S> Sal was pleased . </S>
+<S> Jim was pleased . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> The boy got him . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her ' t . </S>
+<S> He was very when . </S>
+<S> John was pleased . </S>
+<S> They made a great time . </S>
+<S> Tyler was pleased . </S>
+<S> The boy watched him . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Gina was upset . </S>
+<S> I was very proud . </S>
+<S> The boy watched her day . </S>
+<S> He was pleased . </S>
+<S> John was upset . </S>
+<S> He was pleased . </S>
+<S> She was pleased . </S>
+<S> The boy was very angry . </S>
+<S> The boy watched her for her . </S>
+<S> Amy was very excited . </S>
+<S> We made a great time . </S>
+<S> Gina was a good hostess . </S>
+<S> The boy watched her cats for her . </S>
+<S> Gina ' s teacher was very pleased . </S>
+<S> He was pleased . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her day . </S>
+<S> Jim was pleased . </S>
+<S> The people got him . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> The mother found him . </S>
+<S> She was relieved . </S>
+<S> She was pleased . </S>
+<S> He got a great time . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her child . </S>
+<S> The boy watched her . </S>
+<S> Joe got a job . </S>
+<S> Neil was very happy . </S>
+<S> Joe got a job so he wouldn ' t have to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to borrow to
+<S> The boy watched her night . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her . </S>
+<S> The boy was very angry . </S>
+<S> The boy watched her dad for her . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her . </S>
+<S> The boy watched him . </S>
+<S> I was very angry . </S>
+<S> The boy watched the child . </S>
+<S> The friend was very angry . </S>
+<S> I was very angry . </S>
+<S> Bob was very proud . </S>
+<S> I was very angry . </S>
+<S> She decided to be taken . </S>
+<S> Joe got a job so he wouldn ' t have to borrow it . </S>
+<S> The boy watched off . </S>
+<S> I was very angry . </S>
+<S> Brianna loved her cat . </S>
+<S> It was pleased . </S>
+<S> Joe got a job . </S>
+<S> She was very happy . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> The day was very angry . </S>
+<S> Gina ' s teacher was glad . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> He was pleased . </S>
+<S> She was relieved . </S>
+<S> It was a good hostess . </S>
+<S> The boy watched her cats . </S>
+<S> The day was very angry . </S>
+<S> We wanted to see a leopard . </S>
+<S> The man was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> They made a great time . </S>
+<S> Then they all went home . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy was very angry . </S>
+<S> I was very angry . </S>
+<S> Sal got a job . </S>
+<S> Amy was proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> Sal got a great time . </S>
+<S> Todd ' s knees shook as he skated . </S>
+<S> The boy watched her '
+<S> Ben was pleased . </S>
+<S> Jim was elated ! </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched him . </S>
+<S> He was happy . </S>
+<S> The boy watched her time . </S>
+<S> He was pleased . </S>
+<S> I was very proud . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched him . </S>
+<S> Sally loved her cat . </S>
+<S> He was proud . </S>
+<S> The boy watched her time . </S>
+<S> Tyler was elated . </S>
+<S> Bob was very proud . </S>
+<S> The dog watched her dog . </S>
+<S> He finally spending time . </S>
+<S> He was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was pleased . </S>
+<S> He was happy . </S>
+<S> I was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched the child . </S>
+<S> Rosie was very happy . </S>
+<S> The boy watched her day . </S>
+<S> I was very angry . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> She was overjoyed . </S>
+<S> The boy watched them . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> I was angry . </S>
+<S> I made a great time . </S>
+<S> It was pleased . </S>
+<S> The boy got him . </S>
+<S> Sal was pleased . </S>
+<S> I got a lot . </S>
+<S> Ryan was happy . </S>
+<S> The boy watched her ' s mother . </S>
+<S> Neil had a great time . </S>
+<S> I was very angry . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched him . </S>
+<S> He got a job . </S>
+<S> Jim was very proud . </S>
+<S> Jim was upset . </S>
+<S> Bob was very proud . </S>
+<S> He was happy . </S>
+<S> The mother watched her friend for her . </S>
+<S> I was very angry . </S>
+<S> She got a job . </S>
+<S> The mother was very angry . </S>
+<S> Bob was very proud . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> She was very proud . </S>
+<S> The boy watched her . </S>
+<S> Jim was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched him . </S>
+<S> Jim was pleased . </S>
+<S> Amy was excited . </S>
+<S> I was angry at my mom . </S>
+<S> She was proud . </S>
+<S> He was angry . </S>
+<S> The boy watched her time . </S>
+<S> Mary was pleased . </S>
+<S> Sal had a great time . </S>
+<S> I was very angry . </S>
+<S> She was excited . </S>
+<S> She was very happy . </S>
+<S> The boy watched her . </S>
+<S> Bob was very proud . </S>
+<S> Jim was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Gina was very proud . </S>
+<S> Leah chastised her cat . </S>
+<S> The boy watched a job . </S>
+<S> His mother spending time . </S>
+<S> She was very happy . </S>
+<S> The boy watched him . </S>
+<S> We wanted a lot . </S>
+<S> The boy watched her . </S>
+<S> He got a job . </S>
+<S> The boy watched her cats for her . </S>
+<S> Gina was very proud . </S>
+<S> Steve was very proud . </S>
+<S> Mary was very happy . </S>
+<S> Bob was very proud . </S>
+<S> I was very angry . </S>
+<S> Bobby was pleased . </S>
+<S> He was pleased . </S>
+<S> He was pleased . </S>
+<S> The boy gave her cat . </S>
+<S> Beth was proud . </S>
+<S> The boy watched her day . </S>
+<S> He was unhappy . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her day . </S>
+<S> Steve was upset . </S>
+<S> John was very proud . </S>
+<S> He got a job so he wouldn ' t have to borrow . </S>
+<S> Gina was very proud . </S>
+<S> The boy watched him . </S>
+<S> It was a great morning . </S>
+<S> I was angry . </S>
+<S> We had a great time . </S>
+<S> One day , I decided to buy the movie . </S>
+<S> Mary was pleased . </S>
+<S> The dog found him and mauled him . </S>
+<S> I was very angry . </S>
+<S> I was angry at my mom . </S>
+<S> The boy watched her day . </S>
+<S> The boy got a job . </S>
+<S> His mother was very angry . </S>
+<S> The boy watched her . </S>
+<S> Jim was very happy . </S>
+<S> He got a great time . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her cat . </S>
+<S> He was pleased . </S>
+<S> Joe was pleased . </S>
+<S> The boy watched her day . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> He was a great . </S>
+<S> We bought a lot of we wouldn . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy was very angry . </S>
+<S> Neil was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her cats for her . </S>
+<S> Anna decided the cat . </S>
+<S> Brianna loved her mom . </S>
+<S> The boy watched her . </S>
+<S> Jim was elated ! </S>
+<S> Sal was very proud . </S>
+<S> Ron was very happy . </S>
+<S> Harry got a job so he wouldn ' t have to borrow . </S>
+<S> The mother found him . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> He was pleased . </S>
+<S> The boy watched her . </S>
+<S> Pam was upset . </S>
+<S> It found a job . </S>
+<S> We wanted to see a leopard . </S>
+<S> The boy watched her day . </S>
+<S> I got a great time . </S>
+<S> The boy watched her day . </S>
+<S> Todd was very proud . </S>
+<S> The boy watched her cats . </S>
+<S> I was very angry . </S>
+<S> The boy watched them . </S>
+<S> She was happy . </S>
+<S> The boy watched her . </S>
+<S> It was pleased . </S>
+<S> The boy watched her day . </S>
+<S> So Tom got a job . </S>
+<S> He was pleased . </S>
+<S> She was pleased . </S>
+<S> Joe was pleased . </S>
+<S> Gina ' s mother was very proud . </S>
+<S> I will do laundry right now . </S>
+<S> Bob was pleased . </S>
+<S> They was very happy . </S>
+<S> John was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her child . </S>
+<S> Bobby was unhappy . </S>
+<S> Bobby was pleased . </S>
+<S> The boy got home . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her ' a job . </S>
+<S> Amy was very excited . </S>
+<S> Ana was a great . </S>
+<S> The boy was very angry . </S>
+<S> The boy watched her day . </S>
+<S> Neil was pleased . </S>
+<S> Mary was pleased . </S>
+<S> The boy watched her day . </S>
+<S> I was very proud . </S>
+<S> He got a job . </S>
+<S> The boy got him . </S>
+<S> I was very angry . </S>
+<S> Bob was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> Jim ' s knees shook as he skated because he was nervous . </S>
+<S> Todd was very happy . </S>
+<S> Jim was pleased . </S>
+<S> They got a great time . </S>
+<S> I was very proud . </S>
+<S> I was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy watched her to her her . </S>
+<S> We made a great time . </S>
+<S> His teacher got him . </S>
+<S> Emily was happy . </S>
+<S> The boy watched her dog . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> I was very proud . </S>
+<S> He was pleased . </S>
+<S> Todd was very proud . </S>
+<S> It was pleased . </S>
+<S> It was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched him . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Tyler was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her . </S>
+<S> She was overjoyed . </S>
+<S> The friends was very proud . </S>
+<S> The boy watched her cat . </S>
+<S> Neil was pleased . </S>
+<S> Ella was pleased . </S>
+<S> The boy watched her . </S>
+<S> Bobby was pleased . </S>
+<S> She was upset . </S>
+<S> She was pleased . </S>
+<S> Gina ' s mother was glad . </S>
+<S> Tyler was pleased . </S>
+<S> It was very proud . </S>
+<S> The boy watched him . </S>
+<S> Bobby was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> She loved her cat . </S>
+<S> We was very proud . </S>
+<S> The boy watched her cats . </S>
+<S> They was happy . </S>
+<S> I was very proud . </S>
+<S> Jim made the team . </S>
+<S> The boy watched him . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> Ryan was very happy . </S>
+<S> The man was very angry . </S>
+<S> Jen was very happy . </S>
+<S> I was very angry . </S>
+<S> Bobby was very happy . </S>
+<S> Jim was very angry . </S>
+<S> Shyanne was overjoyed . </S>
+<S> John was very angry . </S>
+<S> He got a great time . </S>
+<S> Then we collapsed on a couch . </S>
+<S> The boy watched her . </S>
+<S> I had a great time . </S>
+<S> The boy watched the child . </S>
+<S> The boy watched her time . </S>
+<S> Jim was pleased . </S>
+<S> I found a great time . </S>
+<S> Jeff was a great hostess . </S>
+<S> I was very angry . </S>
+<S> It was a great hostess . </S>
+<S> I was very angry . </S>
+<S> Todd was relieved . </S>
+<S> The boy watched her day . </S>
+<S> Joe got a job so he wouldn ' t have to borrow a borrow . </S>
+<S> She was happy . </S>
+<S> The friend was very grateful . </S>
+<S> The boy watched her day . </S>
+<S> Tyler was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy was very angry . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her day . </S>
+<S> Jim got a lot . </S>
+<S> Amy was very proud . </S>
+<S> Neil had a great time . </S>
+<S> He was very proud . </S>
+<S> He was pleased . </S>
+<S> Amy was excited . </S>
+<S> I got a pizza . </S>
+<S> She was proud . </S>
+<S> She was pleased . </S>
+<S> The boy watched him . </S>
+<S> The boy watched off . </S>
+<S> I was very angry . </S>
+<S> Neil was very happy . </S>
+<S> I made a great time . </S>
+<S> Amy was very proud . </S>
+<S> Steve was very proud . </S>
+<S> I was very proud . </S>
+<S> Ryan was pleased . </S>
+<S> Ben was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> She was relieved . </S>
+<S> The boy watched her time . </S>
+<S> The boy watched him . </S>
+<S> The mom watched him . </S>
+<S> I was very angry . </S>
+<S> The boy watched her time . </S>
+<S> I was very angry . </S>
+<S> Tyler was elated ! </S>
+<S> The boy watched her time . </S>
+<S> Joe was pleased . </S>
+<S> I was very angry . </S>
+<S> I was very proud . </S>
+<S> The boy watched her cats . </S>
+<S> Jim was proud . </S>
+<S> He was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very proud . </S>
+<S> Tim was pleased . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her day . </S>
+<S> Jerry was pleased . </S>
+<S> The boy watched her cat . </S>
+<S> I was very angry . </S>
+<S> The boy watched her and were better . </S>
+<S> It was pleased . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched him . </S>
+<S> Ben was pleased . </S>
+<S> Bobby was pleased . </S>
+<S> John was relieved . </S>
+<S> Fred had a great time . </S>
+<S> Gina was very happy . </S>
+<S> She decided to buy the movie . </S>
+<S> The boy watched her time . </S>
+<S> Jill found a nice job . </S>
+<S> Jerry was very proud . </S>
+<S> Joe was very proud . </S>
+<S> The boy watched her day . </S>
+<S> I was angry . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her night . </S>
+<S> The boy watched her cats for her . </S>
+<S> Gina ' s teacher was very proud . </S>
+<S> The boy watched her dog . </S>
+<S> Bob was very proud . </S>
+<S> She was very proud . </S>
+<S> Ella was pleased . </S>
+<S> The boy watched her . </S>
+<S> The friend watched me . </S>
+<S> Ben was very proud . </S>
+<S> The man was very angry . </S>
+<S> The boy watched her day . </S>
+<S> Brad was pleased . </S>
+<S> I was very angry . </S>
+<S> They friends for his friends . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> Neil was pleased . </S>
+<S> John was pleased . </S>
+<S> Todd was pleased . </S>
+<S> The man watched the man . </S>
+<S> We was very happy . </S>
+<S> The boy watched her friend for her . </S>
+<S> Jay was very proud . </S>
+<S> I was very angry . </S>
+<S> Joe was pleased . </S>
+<S> I was very proud . </S>
+<S> The boy watched him . </S>
+<S> He was pleased . </S>
+<S> The people got him . </S>
+<S> He got a job . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> Jim was happy . </S>
+<S> The mother was very proud . </S>
+<S> The boy watched him . </S>
+<S> She was excited . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> The boy watched him . </S>
+<S> Gina ' s teacher was glad . </S>
+<S> The man moved him . </S>
+<S> Tim was very proud . </S>
+<S> She was very happy . </S>
+<S> I was very angry . </S>
+<S> The boy watched off . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> The boy watched her friend . </S>
+<S> We befriended the bouncer so we would get into the club tomorrow . </S>
+<S> I got a pizza . </S>
+<S> It was a good hostess . </S>
+<S> The boy watched her time . </S>
+<S> It was pleased . </S>
+<S> The mother watched her mother . </S>
+<S> It was pleased . </S>
+<S> Amy was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> Jim was very proud . </S>
+<S> The people told him . </S>
+<S> She loved her friends . </S>
+<S> He was pleased . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her friend for her . </S>
+<S> She was very proud . </S>
+<S> John was very happy . </S>
+<S> He got a job . </S>
+<S> The boy watched her day . </S>
+<S> The mother was very angry . </S>
+<S> I got a pizza . </S>
+<S> Tim was pleased . </S>
+<S> Jim was pleased . </S>
+<S> Gina was very happy . </S>
+<S> The friend was very angry . </S>
+<S> The boy watched her cats . </S>
+<S> Sal was very proud . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Jim was very proud . </S>
+<S> Tim was pleased . </S>
+<S> Jim was upset . </S>
+<S> She was relieved . </S>
+<S> Bob was very proud . </S>
+<S> Steve was very proud . </S>
+<S> The boy watched her . </S>
+<S> The mother was very angry . </S>
+<S> The boy watched them . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> Neil was pleased . </S>
+<S> The mother gave him . </S>
+<S> I was very angry . </S>
+<S> It was a great . </S>
+<S> The boy watched him . </S>
+<S> Tim was pleased . </S>
+<S> Neil was very proud . </S>
+<S> The boy got a job . </S>
+<S> They made a great time . </S>
+<S> I was very angry . </S>
+<S> She was relieved . </S>
+<S> The boy watched her . </S>
+<S> The boy got him . </S>
+<S> I was very angry . </S>
+<S> Harry was very angry . </S>
+<S> He got a job . </S>
+<S> Johnny was upset . </S>
+<S> Tim was pleased . </S>
+<S> Jill found a nice job . </S>
+<S> Ella was happy . </S>
+<S> He got a job . </S>
+<S> She loved her cat . </S>
+<S> The mother was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her . </S>
+<S> The boy watched him . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> They made her friends . </S>
+<S> David was relieved . </S>
+<S> The boy watched her . </S>
+<S> He was pleased . </S>
+<S> Ben was very proud . </S>
+<S> Mary was excited . </S>
+<S> Ron was very happy . </S>
+<S> Sean decided to go to a shelter . </S>
+<S> They made a great time . </S>
+<S> They made a great time . </S>
+<S> She was pleased . </S>
+<S> Jake got a nice job . </S>
+<S> We had a great time . </S>
+<S> The boy watched her child to her mom . </S>
+<S> The boy got him . </S>
+<S> He got a job . </S>
+<S> Gina ' s mother took her . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> She was proud . </S>
+<S> I had a great time . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her day . </S>
+<S> She was proud . </S>
+<S> She loved her cat . </S>
+<S> The boy watched her day . </S>
+<S> Joe was a great hostess . </S>
+<S> Neil was pleased . </S>
+<S> Tyler was pleased . </S>
+<S> The man was very proud . </S>
+<S> Jim was very happy . </S>
+<S> She made a great time . </S>
+<S> I was very angry . </S>
+<S> The boy watched her friend for her . </S>
+<S> It was a great hostess . </S>
+<S> Neil was pleased . </S>
+<S> The boy watched her on a job . </S>
+<S> Mary was pleased . </S>
+<S> He got a job so he wouldn ' t have to borrow him . </S>
+<S> Gina was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her mother . </S>
+<S> Mary was very happy . </S>
+<S> I was very angry . </S>
+<S> Tim was pleased . </S>
+<S> Amy was overjoyed . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her . </S>
+<S> Amy was very excited . </S>
+<S> The boy watched her day . </S>
+<S> Jim was pleased . </S>
+<S> Todd ' s knees shook as he skated . </S>
+<S> The boy spending time . </S>
+<S> Jim was very proud . </S>
+<S> Jim was pleased . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> Then was very happy . </S>
+<S> The boy watched her cat . </S>
+<S> He got a job . </S>
+<S> The boy watched her . </S>
+<S> Todd was very proud . </S>
+<S> The boy watched her . </S>
+<S> I got a job . </S>
+<S> Ben was pleased . </S>
+<S> Stacey told the police what happened . </S>
+<S> David was very happy . </S>
+<S> We had a good time . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her . </S>
+<S> Neil was very happy . </S>
+<S> The man was very angry . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> They made a great time . </S>
+<S> I was very angry . </S>
+<S> Tim was pleased . </S>
+<S> I was very angry . </S>
+<S> Jim was very proud . </S>
+<S> She was pleased . </S>
+<S> The boy watched her . </S>
+<S> We had a great time . </S>
+<S> Jim was very proud . </S>
+<S> Jim was very happy . </S>
+<S> The boy watched her cats for her . </S>
+<S> Ace was very happy . </S>
+<S> So he got a job . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> Tim was pleased . </S>
+<S> Ted made a great time . </S>
+<S> The boy watched her ' s friends . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched him . </S>
+<S> They had a great time . </S>
+<S> The family got him . </S>
+<S> It was pleased . </S>
+<S> He was proud . </S>
+<S> He was pleased . </S>
+<S> She had a great time . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her cat . </S>
+<S> It was pleased . </S>
+<S> The boy watched her day . </S>
+<S> He got a job . </S>
+<S> The boy watched her dad . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> Bob was very proud . </S>
+<S> He finally got him . </S>
+<S> The mom watched her mom . </S>
+<S> The boy watched her cat . </S>
+<S> He got a job . </S>
+<S> The boy watched her cats for her . </S>
+<S> She was freaked . </S>
+<S> I was very angry . </S>
+<S> The friend watched him . </S>
+<S> The mother was very angry . </S>
+<S> Neil was pleased . </S>
+<S> I was very angry . </S>
+<S> She was pleased . </S>
+<S> The friend was very proud . </S>
+<S> I was very angry . </S>
+<S> Sal was pleased . </S>
+<S> Gina loved her ' s Gina . </S>
+<S> I was very angry . </S>
+<S> Susan was glad . </S>
+<S> I was very angry . </S>
+<S> The boy watched her day . </S>
+<S> Joe was very angry . </S>
+<S> John was pleased . </S>
+<S> She began brainstorming a new ice cream recipe recipe . </S>
+<S> The boy watched her ' s mother . </S>
+<S> The boy watched her day . </S>
+<S> The friend watched her new trip . </S>
+<S> I made a great time . </S>
+<S> The boy watched her . </S>
+<S> Gina ' s mother took her . </S>
+<S> The boy got them . </S>
+<S> The boy watched her day . </S>
+<S> It was a great morning . </S>
+<S> Jim made the team . </S>
+<S> The boy watched her cats for her . </S>
+<S> John was very proud . </S>
+<S> They made a lot . </S>
+<S> She was very happy . </S>
+<S> The boy watched her day . </S>
+<S> John was very proud . </S>
+<S> The family watched him . </S>
+<S> I was very proud of the performance . </S>
+<S> The boy watched him . </S>
+<S> The boy was very angry . </S>
+<S> Neil was upset . </S>
+<S> Jim was a good hostess . </S>
+<S> He was a angry . </S>
+<S> The boy watched her . </S>
+<S> He was relieved . </S>
+<S> I got a job . </S>
+<S> He got a job . </S>
+<S> She was pleased . </S>
+<S> Jim was very happy . </S>
+<S> The boy watched her cats to her mom . </S>
+<S> The boy watched him . </S>
+<S> Todd was very proud . </S>
+<S> She was happy . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her . </S>
+<S> It was very angry . </S>
+<S> Many people viewed Jake ' s skirts . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> Neil was pleased . </S>
+<S> Jim was a great hostess . </S>
+<S> Joe was very proud . </S>
+<S> They was happy . </S>
+<S> Mary was pleased . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her time . </S>
+<S> She was glad . </S>
+<S> Mary was very happy . </S>
+<S> He was pleased . </S>
+<S> The boy watched her day . </S>
+<S> The boy was very proud . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her time . </S>
+<S> The boy got him . </S>
+<S> He was pleased . </S>
+<S> The boy watched her day . </S>
+<S> The boy got him . </S>
+<S> Neil was pleased . </S>
+<S> Neil was pleased . </S>
+<S> Amy was very proud . </S>
+<S> I was very angry . </S>
+<S> His hates spending time . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> He was pleased . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched him . </S>
+<S> The friend was very grateful for the help . </S>
+<S> The boy watched her day . </S>
+<S> Jim was very happy . </S>
+<S> The boy watched her day . </S>
+<S> He was pleased . </S>
+<S> Mary was pleased . </S>
+<S> Jim was very happy . </S>
+<S> Joe was pleased . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> He got a job . </S>
+<S> Jim was pleased . </S>
+<S> Jim was happy . </S>
+<S> Sal felt great . </S>
+<S> The boy watched her day . </S>
+<S> She was relieved . </S>
+<S> The boy watched him . </S>
+<S> Jim was very happy . </S>
+<S> Gina was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> I had a great time . </S>
+<S> Gina was proud . </S>
+<S> The boy watched her . </S>
+<S> He was happy . </S>
+<S> I was very angry . </S>
+<S> her mom watched her day . </S>
+<S> He was very happy . </S>
+<S> They went home talking about their night . </S>
+<S> I was very angry . </S>
+<S> They went home . </S>
+<S> The boy watched her day . </S>
+<S> I was angry . </S>
+<S> He got a job . </S>
+<S> He was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> He was pleased . </S>
+<S> The mother was very angry . </S>
+<S> She got a job . </S>
+<S> The snake bit me . </S>
+<S> Bobby was pleased . </S>
+<S> I was very angry . </S>
+<S> Matthew was a good hostess . </S>
+<S> The boy watched her day . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> Amy was pleased . </S>
+<S> The boy watched her cat . </S>
+<S> She was pleased . </S>
+<S> She loved her time . </S>
+<S> He got a job so he wouldn ' t have to borrow . </S>
+<S> The boy watched her . </S>
+<S> Bobby was pleased . </S>
+<S> They was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her new beautiful . </S>
+<S> The boy was very angry . </S>
+<S> Jim was proud . </S>
+<S> We wanted to see a leopard . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Amy was very proud . </S>
+<S> She was very proud . </S>
+<S> She was late . </S>
+<S> Ted was happy . </S>
+<S> I was very angry . </S>
+<S> I was very proud . </S>
+<S> The boy watched her . </S>
+<S> Mary was very happy . </S>
+<S> The boy watched her day . </S>
+<S> The boy was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> She was pleased . </S>
+<S> Jim made a great time . </S>
+<S> Amy was very proud . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her day . </S>
+<S> She was excited . </S>
+<S> The team was very proud . </S>
+<S> The boy watched her '
+<S> He was pleased . </S>
+<S> The boy watched him . </S>
+<S> Joe was pleased . </S>
+<S> The mom got him . </S>
+<S> The boy watched her . </S>
+<S> He was pleased . </S>
+<S> She was excited . </S>
+<S> Joe was pleased . </S>
+<S> I was very angry . </S>
+<S> They got a great time . </S>
+<S> The boy watched her day . </S>
+<S> Ella was very happy . </S>
+<S> Ben was very proud . </S>
+<S> The boy watched her '
+<S> The boy watched her cats for her . </S>
+<S> Joe made a job . </S>
+<S> Jerry was pleased . </S>
+<S> Amy was upset . </S>
+<S> The boy watched her cats for her . </S>
+<S> Ella loved her cat . </S>
+<S> Tim was pleased . </S>
+<S> The boy watched her . </S>
+<S> The friend was very angry . </S>
+<S> Lester went out . </S>
+<S> The boy got him . </S>
+<S> I made a great time . </S>
+<S> The boy watched her cats . </S>
+<S> Bobby was pleased . </S>
+<S> Bob was very proud . </S>
+<S> He was pleased . </S>
+<S> The boy got her . </S>
+<S> I got a great time . </S>
+<S> I was very angry . </S>
+<S> The people found him . </S>
+<S> Ben was a great hostess . </S>
+<S> I was very angry . </S>
+<S> He got a job . </S>
+<S> Todd was pleased . </S>
+<S> She had a great time . </S>
+<S> He was pleased . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched him . </S>
+<S> Mary was upset . </S>
+<S> The boy watched her cats for her . </S>
+<S> He was pleased . </S>
+<S> Tim was pleased . </S>
+<S> The boy watched her cats . </S>
+<S> The boy was very angry . </S>
+<S> Jen took the spelling bee ! . </S>
+<S> The boy watched her cats . </S>
+<S> She was very proud . </S>
+<S> Jim was very happy . </S>
+<S> The boy watched her . </S>
+<S> He was pleased . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> She loved her cat . </S>
+<S> I decided to buy the movie . </S>
+<S> She loved her cat . </S>
+<S> I was very angry . </S>
+<S> The boy watched her friend for her . </S>
+<S> The boy was very angry . </S>
+<S> He was pleased . </S>
+<S> The boy watched the child . </S>
+<S> We had a great time . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her . </S>
+<S> The boy got a job . </S>
+<S> The friend was very angry . </S>
+<S> She was proud . </S>
+<S> The boy watched her cat . </S>
+<S> Sal was very proud . </S>
+<S> He got a lot of he wouldn . </S>
+<S> I was very angry . </S>
+<S> Jim was pleased . </S>
+<S> We made a great time . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her friends . </S>
+<S> I was very angry . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her cat . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> He got a job . </S>
+<S> The boy watched her new trip . </S>
+<S> Tom was very happy . </S>
+<S> The boy watched her cats for her . </S>
+<S> Joe was pleased . </S>
+<S> She decided to buy the movie . </S>
+<S> Bobby was proud . </S>
+<S> I was very angry . </S>
+<S> Jim was very proud . </S>
+<S> Joe got a job . </S>
+<S> Jim was pleased . </S>
+<S> Jim was pleased . </S>
+<S> She took her place in her . </S>
+<S> She was overjoyed . </S>
+<S> Bob was very proud . </S>
+<S> We made a great time . </S>
+<S> Mary was so happy ! </S>
+<S> The boy watched them . </S>
+<S> We made a great time . </S>
+<S> She was excited . </S>
+<S> The television show had hooked me . </S>
+<S> He was pleased . </S>
+<S> The man was very proud . </S>
+<S> Rosie was a great hostess . </S>
+<S> He was pleased . </S>
+<S> Todd was relieved . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her . </S>
+<S> The man got him . </S>
+<S> I was very angry . </S>
+<S> Alice was very happy . </S>
+<S> The boy watched her of her . </S>
+<S> It was pleased . </S>
+<S> Jim was very happy . </S>
+<S> She got a job . </S>
+<S> Gina ' s mother was very proud . </S>
+<S> I was angry . </S>
+<S> He decided to buy the movie . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her time . </S>
+<S> Neil was pleased when he was finally . </S>
+<S> She was very happy . </S>
+<S> Tim was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> Neil was pleased . </S>
+<S> The boy watched her cats for her . </S>
+<S> Bobby decided to be taken . </S>
+<S> The boy watched her cats for her . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched her child . </S>
+<S> The boy watched her . </S>
+<S> We had a great time . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy was very angry . </S>
+<S> Jim was pleased . </S>
+<S> Bobby was relieved . </S>
+<S> Amy was very proud . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her . </S>
+<S> The mother watched her cats for her . </S>
+<S> The man watched him . </S>
+<S> The boy was very angry . </S>
+<S> He was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> Amy was upset . </S>
+<S> I was very angry . </S>
+<S> Ben was pleased . </S>
+<S> The boy was very angry . </S>
+<S> She loved her mother . </S>
+<S> The boy watched her night . </S>
+<S> He was pleased . </S>
+<S> I was very proud . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her . </S>
+<S> Jim was happy . </S>
+<S> I was very angry . </S>
+<S> I made her mom . </S>
+<S> The boy watched him . </S>
+<S> They had a great time . </S>
+<S> The boy watched her cats for her . </S>
+<S> Then was very happy . </S>
+<S> The boy watched her . </S>
+<S> She was glad . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> They made a great time . </S>
+<S> She was excited . </S>
+<S> The mother watched him . </S>
+<S> He got a great time . </S>
+<S> The boy watched her cats . </S>
+<S> I was very angry . </S>
+<S> She was happy . </S>
+<S> The boy watched him . </S>
+<S> The boy watched him . </S>
+<S> Bob was very proud . </S>
+<S> She loved her friends . </S>
+<S> The boy watched him . </S>
+<S> I found a nice . </S>
+<S> She was overjoyed . </S>
+<S> Neil was pleased . </S>
+<S> We got a great time . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her day . </S>
+<S> Jenny was very proud . </S>
+<S> The boy watched him . </S>
+<S> The man told him . </S>
+<S> Jim was pleased . </S>
+<S> Don was pleased . </S>
+<S> The dog watched me . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats . </S>
+<S> From then spending time . </S>
+<S> The dog found me . </S>
+<S> The boy watched her cats . </S>
+<S> The friend watched her night . </S>
+<S> Jim was very proud . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched her cats to the doctor . </S>
+<S> She was very grateful . </S>
+<S> The boy watched her cats for her . </S>
+<S> Tina took second place in the competition . </S>
+<S> Neil was pleased . </S>
+<S> Mark was very happy . </S>
+<S> Jim was pleased . </S>
+<S> It had a great time . </S>
+<S> He made a job . </S>
+<S> The cat was very angry . </S>
+<S> The boy watched him . </S>
+<S> I made a great time . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her . </S>
+<S> Bob had a great time . </S>
+<S> I was very angry . </S>
+<S> Jim was pleased . </S>
+<S> Jim was pleased . </S>
+<S> It was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her day . </S>
+<S> She was excited . </S>
+<S> The man was very angry . </S>
+<S> Jim was pleased . </S>
+<S> Jim was pleased . </S>
+<S> She was overjoyed . </S>
+<S> She loved her mom . </S>
+<S> I was very angry . </S>
+<S> The next pitch he was beautiful . </S>
+<S> The boy watched her cat . </S>
+<S> She began the new bee ! . </S>
+<S> The friend was very angry . </S>
+<S> I was very angry . </S>
+<S> It was pleased . </S>
+<S> Jen was pleased . </S>
+<S> Sam was pleased . </S>
+<S> The boy watched the child . </S>
+<S> The boy was very proud . </S>
+<S> We had a great time . </S>
+<S> The boy watched her cat . </S>
+<S> The boy was very angry . </S>
+<S> The man watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> She loved her cat . </S>
+<S> The boy watched her cats for her . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> John was very angry . </S>
+<S> The boy watched him . </S>
+<S> John was very proud . </S>
+<S> Joe was upset . </S>
+<S> The boy watched her . </S>
+<S> The man was very angry . </S>
+<S> Ben was very proud . </S>
+<S> I was very angry . </S>
+<S> She was pleased . </S>
+<S> Jim was pleased . </S>
+<S> I got a great time . </S>
+<S> Gina was very proud . </S>
+<S> The mother got him . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched the child . </S>
+<S> We had a great time . </S>
+<S> The boy watched her cats her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her her her her her her her her her her her her her her her her her her her her her her her her her . </S> her her her her . </S> her her her her . </S> her her her her . </S> her her
+<S> We had a great time . </S>
+<S> Neil was pleased . </S>
+<S> Bob was very proud . </S>
+<S> She was very proud . </S>
+<S> Joe was very proud . </S>
+<S> He was happy . </S>
+<S> He was proud . </S>
+<S> John was very proud . </S>
+<S> Neil was pleased . </S>
+<S> Amy was very proud . </S>
+<S> David was happy that he decided to go that . </S>
+<S> Mia was overjoyed . </S>
+<S> I made a great time . </S>
+<S> She loved her cat . </S>
+<S> I was very angry . </S>
+<S> She was very happy . </S>
+<S> He made a great time . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> His dad spending time . </S>
+<S> Bob was very proud . </S>
+<S> Amy was excited . </S>
+<S> The boy watched her cats for her . </S>
+<S> Gina was very proud . </S>
+<S> Ted was happy . </S>
+<S> Jim was very happy . </S>
+<S> Paul got a job . </S>
+<S> His mother spending time . </S>
+<S> Amy was very proud . </S>
+<S> The boy watched her . </S>
+<S> The boy was very proud . </S>
+<S> The boy watched her day . </S>
+<S> He was pleased . </S>
+<S> I was very angry . </S>
+<S> She was very happy . </S>
+<S> Tyler was pleased . </S>
+<S> She was very proud . </S>
+<S> I was very angry . </S>
+<S> Joe was very proud . </S>
+<S> The dad watched him . </S>
+<S> She was very proud . </S>
+<S> Jim was very proud . </S>
+<S> Sal was very proud . </S>
+<S> I got a great time . </S>
+<S> He was happy . </S>
+<S> I got a lot . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her time . </S>
+<S> She loved her cat . </S>
+<S> The boy watched him . </S>
+<S> Ben was annoyed . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> They had a good time . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her day . </S>
+<S> Jim was very happy . </S>
+<S> I was very proud . </S>
+<S> The boy watched him . </S>
+<S> Jim was pleased . </S>
+<S> She was overjoyed . </S>
+<S> John was relieved . </S>
+<S> She was pleased . </S>
+<S> Jim was pleased . </S>
+<S> They made a great time . </S>
+<S> She was pleased . </S>
+<S> The boy watched her cats . </S>
+<S> Bob was pleased . </S>
+<S> Tim was pleased . </S>
+<S> The boy watched her cats . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> I was very angry . </S>
+<S> Sal had a great time . </S>
+<S> Jeff hates spending time with his in-laws . </S>
+<S> The boy watched her cat . </S>
+<S> I was very angry . </S>
+<S> He was pleased . </S>
+<S> The boy watched him . </S>
+<S> Ben was pleased . </S>
+<S> She was very proud . </S>
+<S> Jim was upset . </S>
+<S> Bobby was pleased . </S>
+<S> Jay immediately knew her fears were unfounded . </S>
+<S> Jeff was very proud . </S>
+<S> The boy watched off . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was a good hostess . </S>
+<S> She was relieved . </S>
+<S> The boy watched her and were her . </S>
+<S> She loved her cat . </S>
+<S> His mother was very angry . </S>
+<S> I was very angry . </S>
+<S> The people got him . </S>
+<S> Ryan was pleased . </S>
+<S> I was angry . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> Jim was a good hostess . </S>
+<S> Jim was very proud . </S>
+<S> The boy watched her . </S>
+<S> Jim gave her mom for her . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her day . </S>
+<S> We had a great time . </S>
+<S> The mother apologized . </S>
+<S> The boy watched her day . </S>
+<S> I made a great time . </S>
+<S> Amy was very proud . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats for her . </S>
+<S> I made a great time . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> I decided to buy the movie . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy was very proud . </S>
+<S> Jim was happy . </S>
+<S> The boy watched her cats for her . </S>
+<S> They was happy . </S>
+<S> The boy watched him . </S>
+<S> Tim was pleased . </S>
+<S> She was happy . </S>
+<S> Joe was pleased . </S>
+<S> The boy watched her . </S>
+<S> She loved her cat . </S>
+<S> The boy told him . </S>
+<S> Jeff was very happy . </S>
+<S> She was glad . </S>
+<S> Gina decided to walk to the police . </S>
+<S> The boy watched her cats . </S>
+<S> The boy got a job . </S>
+<S> Gina was pleased . </S>
+<S> He got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy watched her day . </S>
+<S> The boy was very angry . </S>
+<S> Jim was very happy . </S>
+<S> Jim was very angry . </S>
+<S> The boy watched her . </S>
+<S> The boy got him . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> He got a job . </S>
+<S> She was very happy . </S>
+<S> The boy watched him . </S>
+<S> The day was very grateful . </S>
+<S> Tim was pleased . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her . </S>
+<S> Jim was very happy . </S>
+<S> It was overjoyed . </S>
+<S> But was glad . </S>
+<S> They decided to buy the movie . </S>
+<S> The boy watched her cats for her . </S>
+<S> Jim was very happy . </S>
+<S> Ben was angry . </S>
+<S> Joe got a job . </S>
+<S> I got a lot . </S>
+<S> Joe got a great time . </S>
+<S> The boy watched her to her mom . </S>
+<S> She was very proud . </S>
+<S> Jim was pleased . </S>
+<S> I was very angry . </S>
+<S> Jim was pleased . </S>
+<S> The boy watched her . </S>
+<S> She loved her mother . </S>
+<S> She was glad . </S>
+<S> They made the cat . </S>
+<S> We bought a lot . </S>
+<S> Sal was very proud . </S>
+<S> She was very happy . </S>
+<S> She was excited . </S>
+<S> Joe was very proud . </S>
+<S> They made a great time . </S>
+<S> The boy watched off . </S>
+<S> She was very proud . </S>
+<S> His mother spending time . </S>
+<S> She was happy . </S>
+<S> She was pleased . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched her . </S>
+<S> He was pleased . </S>
+<S> He found the cow and brought it back . </S>
+<S> The boy watched her cats for her . </S>
+<S> John was very proud . </S>
+<S> Ben was pleased . </S>
+<S> I was angry at my mom for running up my credit card . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cat . </S>
+<S> She was happy . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her cats . </S>
+<S> Bob was very proud . </S>
+<S> Jim decided to buy the movie . </S>
+<S> The boy was very angry . </S>
+<S> The mother got a new toy . </S>
+<S> The boy watched her cats . </S>
+<S> He was pleased . </S>
+<S> He got a great time . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> It was pleased . </S>
+<S> The boy watched her . </S>
+<S> The boy got him . </S>
+<S> The man watched him . </S>
+<S> I was very proud . </S>
+<S> Amy was very proud . </S>
+<S> The boy watched her day . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Bob was very proud . </S>
+<S> I was very proud . </S>
+<S> Our went a pizza . </S>
+<S> Jim was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her day . </S>
+<S> He was glad . </S>
+<S> He was pleased . </S>
+<S> Matt was very angry . </S>
+<S> The boy told him . </S>
+<S> She was excited . </S>
+<S> We was very happy . </S>
+<S> Jim was pleased . </S>
+<S> He finally found it . </S>
+<S> She loved her cat . </S>
+<S> Jim was pleased . </S>
+<S> Joe got a job so he wouldn ' t have to borrow . </S>
+<S> The boy watched her cats . </S>
+<S> He was pleased . </S>
+<S> She loved her cat . </S>
+<S> The boy got a new meal . </S>
+<S> The boy watched her . </S>
+<S> Gina was a good hostess . </S>
+<S> The mother got him . </S>
+<S> The boy watched her . </S>
+<S> Todd was pleased . </S>
+<S> The boy got her . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> Jim was very happy . </S>
+<S> I was very angry . </S>
+<S> They was happy . </S>
+<S> He was pleased . </S>
+<S> Joe was pleased . </S>
+<S> Brad was pleased . </S>
+<S> Brad was pleased . </S>
+<S> Jerry was very proud . </S>
+<S> I was angry . </S>
+<S> I was very angry . </S>
+<S> Sam was very happy . </S>
+<S> I had a great time . </S>
+<S> The television got a job . </S>
+<S> The boy was very proud . </S>
+<S> It was pleased . </S>
+<S> I was very proud . </S>
+<S> They made the cat . </S>
+<S> The boy was very proud . </S>
+<S> I was very proud . </S>
+<S> The boy watched him . </S>
+<S> She was excited . </S>
+<S> She was proud . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched him . </S>
+<S> She loved her cat . </S>
+<S> He was pleased . </S>
+<S> He was glad . </S>
+<S> The boy watched her cat . </S>
+<S> He got a job so he wouldn ' t have to borrow . </S>
+<S> He finally found it under the bed . </S>
+<S> I was very angry . </S>
+<S> John was very angry . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched her cats for her . </S>
+<S> Joe got a job so he wouldn . </S>
+<S> Johnny got a lot . </S>
+<S> The ate got a job . </S>
+<S> I was very angry . </S>
+<S> The dad spending time . </S>
+<S> John was very proud . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched her . </S>
+<S> I was very angry . </S>
+<S> I was very proud . </S>
+<S> The boy watched her cat . </S>
+<S> He was happy . </S>
+<S> Amy was very proud . </S>
+<S> Jim was very happy . </S>
+<S> Tina took her place in her . </S>
+<S> The boy watched her cats . </S>
+<S> I was very angry . </S>
+<S> Tyler was pleased . </S>
+<S> Jake ' s mother was very proud . </S>
+<S> I was very angry . </S>
+<S> Joe was very proud . </S>
+<S> She got a job . </S>
+<S> Amy was very proud . </S>
+<S> Sal was very proud . </S>
+<S> Neil was pleased . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her day . </S>
+<S> Jim was so happy ! </S>
+<S> The boy watched her day . </S>
+<S> The boy watched them . </S>
+<S> I was very angry . </S>
+<S> Jim was proud . </S>
+<S> They made a great time . </S>
+<S> His mother got a job . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her time . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her cat . </S>
+<S> The boy watched her cats . </S>
+<S> The boy got a job . </S>
+<S> Todd was glad . </S>
+<S> The boy watched her cats for her . </S>
+<S> She was late . </S>
+<S> I was very angry . </S>
+<S> Jim was very proud . </S>
+<S> We had a great time . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> The boy got a job . </S>
+<S> It was very angry . </S>
+<S> The boy watched her child . </S>
+<S> I was very angry . </S>
+<S> I had a great time . </S>
+<S> Jim was very proud . </S>
+<S> The people chased him . </S>
+<S> She loved her cat . </S>
+<S> Neil was pleased . </S>
+<S> I was very angry . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats . </S>
+<S> He got a great time . </S>
+<S> We ordered a pizza with separate toppings . </S>
+<S> Mary was very happy . </S>
+<S> Tyler was elated ! </S>
+<S> Ben was annoyed . </S>
+<S> The boy watched her ' s cream . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her . </S>
+<S> She was relieved . </S>
+<S> The boy watched her cats for her . </S>
+<S> The boy watched her day . </S>
+<S> She was very proud . </S>
+<S> The boy watched her ' s phone . </S>
+<S> The boy watched her cats . </S>
+<S> She was proud . </S>
+<S> The boy watched her friend for her . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her ' s friends . </S>
+<S> The boy got her . </S>
+<S> We wanted a great time . </S>
+<S> He was very angry . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her cats for her . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> The parents watched her cat . </S>
+<S> Todd was pleased . </S>
+<S> The family told the child . </S>
+<S> The boy was very proud . </S>
+<S> The friend was very angry . </S>
+<S> John was happy . </S>
+<S> Todd was pleased . </S>
+<S> Neil was pleased . </S>
+<S> Jim was pleased . </S>
+<S> John had a great time . </S>
+<S> He was pleased . </S>
+<S> I was very angry . </S>
+<S> They was very happy . </S>
+<S> I was very angry . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> Neil got a great time . </S>
+<S> She made a great time . </S>
+<S> I got a great job . </S>
+<S> I had a great time . </S>
+<S> They made a great time . </S>
+<S> Brad was very proud . </S>
+<S> He had a great time . </S>
+<S> Jim was pleased . </S>
+<S> Joe was very proud . </S>
+<S> The boy watched her time . </S>
+<S> Jim was pleased . </S>
+<S> Tim was pleased . </S>
+<S> She was proud . </S>
+<S> The boy watched her day . </S>
+<S> The boy watched her day . </S>
+<S> She was pleased . </S>
+<S> Jim was pleased . </S>
+<S> Bob was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy watched him . </S>
+<S> Jim was a great morning . </S>
+<S> The boy watched her . </S>
+<S> Bobby was angry . </S>
+<S> Jim was pleased . </S>
+<S> I was very proud . </S>
+<S> The boy watched him . </S>
+<S> Amy was very excited . </S>
+<S> Todd was pleased . </S>
+<S> The boy watched him . </S>
+<S> Joe got a great day . </S>
+<S> He was happy . </S>
+<S> The boy watched her day . </S>
+<S> The boy told him . </S>
+<S> Joe got a job so he wouldn ' t have to borrow the money . </S>
+<S> Joe made a job so he wouldn ' t have to borrow . </S>
+<S> The boy got him . </S>
+<S> I was very angry . </S>
+<S> Ron was very happy . </S>
+<S> He got a job so he wouldn ' t have to borrow . </S>
+<S> Brad had a great time . </S>
+<S> The boy watched him . </S>
+<S> They was very happy . </S>
+<S> I was angry . </S>
+<S> I was very angry . </S>
+<S> She was upset . </S>
+<S> The boy watched her cats for her . </S>
+<S> It was pleased . </S>
+<S> He got a job . </S>
+<S> David and Mia decided to leave the movie . </S>
+<S> Bob was very proud . </S>
+<S> The boy watched her fears were her . </S>
+<S> The boy watched her cats . </S>
+<S> I made a great time . </S>
+<S> I got a lot . </S>
+<S> She was proud . </S>
+<S> The friend was very grateful . </S>
+<S> Pam was very happy . </S>
+<S> The boy watched him . </S>
+<S> She was glad . </S>
+<S> Pam was a great hostess . </S>
+<S> Amy was excited . </S>
+<S> Todd was angry . </S>
+<S> The boy was very angry . </S>
+<S> Bill got a great time . </S>
+<S> Joe got a job . </S>
+<S> It was pleased . </S>
+<S> The boy watched him . </S>
+<S> After was very proud . </S>
+<S> He was pleased . </S>
+<S> Jim was very proud . </S>
+<S> He got a job . </S>
+<S> Ella was happy . </S>
+<S> The dog watched her very well . </S>
+<S> Bob made a great time . </S>
+<S> John was pleased . </S>
+<S> The boy watched her . </S>
+<S> He was pleased . </S>
+<S> David was a great . </S>
+<S> I got a job . </S>
+<S> I was very angry . </S>
+<S> The teacher told her time . </S>
+<S> The boy watched him . </S>
+<S> I got a pizza . </S>
+<S> The boy watched her to her mom . </S>
+<S> Neil was proud . </S>
+<S> He had a job . </S>
+<S> He was very angry . </S>
+<S> The boy watched him . </S>
+<S> The boy watched her cats . </S>
+<S> The boy watched her . </S>
+<S> The boy was very angry . </S>
+<S> Jim was very proud . </S>
+<S> The boy was very proud . </S>
+<S> I was very angry . </S>
+<S> The boy watched her . </S>
+<S> The friend watched him . </S>
+<S> Gina ' s mother was very proud . </S>
+<S> The boy watched her . </S>
+<S> The boy watched her . </S>
+<S> She took her mother . </S>
+<S> Jim was pleased . </S>
+<S> Todd ' s knees shook as he skated because he was nervous . </S>
+<S> The boy watched her cats for her . </S>
+<S> The man was very angry . </S>
+<S> She was pleased . </S>
+<S> She was excited . </S>
+<S> The boy watched her day . </S>
+<S> Sam was pleased . </S>
+<S> I was very angry . </S>
+<S> It was pleased . </S>
+<S> The boy watched her dad for her . </S>
+<S> She was late when . </S>
+<S> I was very proud . </S>
+<S> Jim was angry . </S>
+<S> He got a job . </S>
+<S> The man was very proud . </S>
+<S> Neil was very happy . </S>
+<S> She was proud . </S>
+<S> John was happy . </S>
+<S> The boy got him . </S>
+<S> Jim was very proud . </S>
