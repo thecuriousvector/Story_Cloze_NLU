@@ -1,0 +1,1496 @@
+<S> She went back to sleep . </S>
+<S> Tom ' s parents took him . </S>
+<S> Tom ' s mom went back . </S>
+<S> Tom was furious with his wife . </S>
+<S> I was very happy . </S>
+<S> She then went home . </S>
+<S> She went back to sleep . </S>
+<S> I was very happy . </S>
+<S> The man was very happy . </S>
+<S> Tom ' s day went very badly . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> Amy bought a yacht . </S>
+<S> Tom threw the money . </S>
+<S> Gina got home . </S>
+<S> Jane ' s dad with her grandmother . </S>
+<S> We we we we . </S>
+<S> Brad ' s day with him . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Tom was happy with his mom . </S>
+<S> Tom ' s day took him . </S>
+<S> Tom ' s day took him . </S>
+<S> The cat decided to find the game . </S>
+<S> Tom ' s teacher took his grandmother . </S>
+<S> She was happy with his car . </S>
+<S> She ' s day was very happy . </S>
+<S> She bought a yacht . </S>
+<S> The boy ' s parents took a nap . </S>
+<S> She went back to sleep . </S>
+<S> Tom was happy to his out . </S>
+<S> Tom ' s day took him . </S>
+<S> I was very happy . </S>
+<S> I bought a birthday . </S>
+<S> The goldfish were very happy and healthy . </S>
+<S> Brad then went home . </S>
+<S> He then got home . </S>
+<S> She hated a baby . </S>
+<S> Neil was happy . </S>
+<S> Tom went home . </S>
+<S> Tom ' s mom walked him . </S>
+<S> Bob was very happy . </S>
+<S> I was very happy . </S>
+<S> She didn ' t want to eat . </S>
+<S> She went back to sleep . </S>
+<S> Mary bought a yacht . </S>
+<S> Joe loaned Grant some money . </S>
+<S> So she brought one home . </S>
+<S> The man were very happy . </S>
+<S> She bought a yacht . </S>
+<S> She was happy to find . </S>
+<S> Tom had a nap . </S>
+<S> I was so happy . </S>
+<S> The boy had a great . </S>
+<S> She did not want . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> John was happy with his mom . </S>
+<S> Tom ' s mom went home . </S>
+<S> Neil went home . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s parents took him . </S>
+<S> Amy was happy with her car . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> Sal was happy with his wife . </S>
+<S> He was happy with his friends . </S>
+<S> She got back to sleep . </S>
+<S> Ellen was happy to her out . </S>
+<S> Bill made his money . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> Tom ' s parents took him . </S>
+<S> The man told the money . </S>
+<S> Tom got back to sleep . </S>
+<S> Neil was happy . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> I was very happy . </S>
+<S> She never talked to her again . </S>
+<S> Tom was happy with his mom . </S>
+<S> Gina got home . </S>
+<S> Tom decided to go to the store . </S>
+<S> Tom ' s parents took him . </S>
+<S> She was happy to her out . </S>
+<S> The man decided to go to sleep . </S>
+<S> I ran in in in improving . </S>
+<S> I decided to go to sleep . </S>
+<S> The goldfish were very happy . </S>
+<S> Tom ' s teacher took her grandmother . </S>
+<S> She went back to sleep . </S>
+<S> The letter stated . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Suzie ' s dad with her grandmother . </S>
+<S> She went back to sleep . </S>
+<S> I my clothes a great . </S>
+<S> I was ashamed of what I had done . </S>
+<S> Jill was happy to find . </S>
+<S> Amy ' s day was very happy . </S>
+<S> John was happy to his friends . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> I went to go to the trash . </S>
+<S> The man was a great . </S>
+<S> She went back to sleep . </S>
+<S> Jane was very happy . </S>
+<S> Sal was very happy . </S>
+<S> She then went home . </S>
+<S> The man was very happy . </S>
+<S> The baby family . </S>
+<S> Amy ' s dad was very happy . </S>
+<S> I was happy . </S>
+<S> Amy ' s dad with him . </S>
+<S> I was very happy . </S>
+<S> Tom decided to go to a party . </S>
+<S> Sal then went home . </S>
+<S> She ' s dad was very happy . </S>
+<S> She bought a yacht . </S>
+<S> She was very happy . </S>
+<S> Tom was very happy . </S>
+<S> She bought a yacht . </S>
+<S> Bob asked the money . </S>
+<S> I was so happy . </S>
+<S> They bought a baby she didn . </S>
+<S> The man decided to go to the beach . </S>
+<S> The man were very happy . </S>
+<S> I was very happy . </S>
+<S> We was very happy . </S>
+<S> She decided to her to the store . </S>
+<S> Sal was happy with his wife . </S>
+<S> The man threw a great . </S>
+<S> She went back and went home . </S>
+<S> Tom ' s dad was very disappointed . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> The man decided to go to sleep . </S>
+<S> She bought a yacht . </S>
+<S> Tom got home . </S>
+<S> Brad ' s day went very badly . </S>
+<S> I decided to go to sleep . </S>
+<S> John ' s dad was very happy . </S>
+<S> She felt a baby . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Tom got home . </S>
+<S> Tom hated all . </S>
+<S> Tom ' s day with him . </S>
+<S> I went back to sleep . </S>
+<S> The man were very happy . </S>
+<S> I went to a great . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> I was very happy . </S>
+<S> The man had a great . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> He decided to go to a party . </S>
+<S> She went back to sleep . </S>
+<S> John told his friends . </S>
+<S> Neil was happy . </S>
+<S> Amy ' s relationship with him . </S>
+<S> He decided to go to sleep . </S>
+<S> He went home . </S>
+<S> Amy ' s mom took him . </S>
+<S> I didn ' t wait to the party . </S>
+<S> The man was very happy . </S>
+<S> Brad ' s day went very badly . </S>
+<S> She ' s dad was very happy . </S>
+<S> Tim ' s dad had very disappointed . </S>
+<S> Bob decided to go to the beach . </S>
+<S> Brad ' s day was glad . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Bob decided to go to sleep . </S>
+<S> Gina was happy . </S>
+<S> Jill frequently ate lima beans . </S>
+<S> The boy ' s mom took him . </S>
+<S> Amy ' s dad with him . </S>
+<S> Tom ' s day went him the money . </S>
+<S> I bought a baby . </S>
+<S> Amy got back to sleep . </S>
+<S> Tom ' s parents was very happy . </S>
+<S> Ellen ' s dad was very happy . </S>
+<S> Tom was furious with his wife . </S>
+<S> I was very happy . </S>
+<S> Amy was a happy . </S>
+<S> The man decided to go to the beach . </S>
+<S> Sal was furious with his wife . </S>
+<S> John ' s dad was very happy . </S>
+<S> Tom ' s parents took him . </S>
+<S> I bought a doctor . </S>
+<S> Paul was furious with his mom . </S>
+<S> We was ashamed of what he had done . </S>
+<S> He was very happy . </S>
+<S> Brad ' s dad took her home . </S>
+<S> The man decided to go to sleep . </S>
+<S> I had a great . </S>
+<S> Tom ' s mom punishes him . </S>
+<S> She bought a yacht . </S>
+<S> She went back to sleep . </S>
+<S> Tyler then got home . </S>
+<S> She bought a new blanket . </S>
+<S> John was very happy . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> She decided to go to sleep . </S>
+<S> Bob was happy with his mom . </S>
+<S> I didn ' t wait . </S>
+<S> Tom ' s dad ' s day . </S>
+<S> I bought a dog . </S>
+<S> Jane ' s dad with her grandmother . </S>
+<S> After was happy with his mom . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> They was ashamed of what he had done . </S>
+<S> Tom went home . </S>
+<S> They went home . </S>
+<S> Tim ' s money was very disappointed . </S>
+<S> I was very happy . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> She decided to go to sleep . </S>
+<S> She ' s relationship with her car . </S>
+<S> He ' s day punishes him . </S>
+<S> Tom ' s parents took him . </S>
+<S> Tom ' s mom went back . </S>
+<S> Jim went home . </S>
+<S> She went back to sleep . </S>
+<S> I was very happy . </S>
+<S> The boy decided to eat . </S>
+<S> She couldn ' t wait to be back . </S>
+<S> The man were very happy . </S>
+<S> She bought a yacht . </S>
+<S> Bob decided to go to sleep . </S>
+<S> Tom ' s day was glad . </S>
+<S> He was happy with his friend . </S>
+<S> She ' s dad was very happy . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> I was very happy . </S>
+<S> She ran to go to sleep . </S>
+<S> The boy was very happy . </S>
+<S> She bought a yacht . </S>
+<S> Bob had a nap . </S>
+<S> Joe went back to sleep . </S>
+<S> Jane ' s day was very disappointed . </S>
+<S> Bill ' s parents took him . </S>
+<S> The cat decided to find the game . </S>
+<S> Tom got home . </S>
+<S> Brad ' s day was glad . </S>
+<S> Jeb was excited with his mom . </S>
+<S> Sal was furious with his wife . </S>
+<S> She bought a yacht . </S>
+<S> The cat decided to eat . </S>
+<S> Neil went back . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> I bought a great . </S>
+<S> Gina went home . </S>
+<S> Tom ' s parents went to the park . </S>
+<S> Tom got home . </S>
+<S> Amy ' s dad with her car . </S>
+<S> She was a happy . </S>
+<S> She decided to a return . </S>
+<S> She was happy with his mom . </S>
+<S> She decided to never return . </S>
+<S> The parents had a great . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> I decided to go to sleep . </S>
+<S> I bought a baby . </S>
+<S> Jim was happy with his mom . </S>
+<S> The man told him . </S>
+<S> I bought a great . </S>
+<S> She was very happy . </S>
+<S> He ' s parents took him . </S>
+<S> I bought all . </S>
+<S> I decided to go to sleep . </S>
+<S> She ' s relationship with her grandmother . </S>
+<S> She went back to sleep . </S>
+<S> Tom decided to go to the beach . </S>
+<S> Amy went to the pet store . </S>
+<S> She was happy that was dead . </S>
+<S> She went back to sleep . </S>
+<S> She went back to sleep . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> I didn ' t wait to the restaurant . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Tom ' s day ' s day . </S>
+<S> Brad ' s day went him . </S>
+<S> I was happy . </S>
+<S> She got home . </S>
+<S> The man were very happy . </S>
+<S> She bought a new blanket . </S>
+<S> I ran in the beach . </S>
+<S> Ellen bought a baby blanket . </S>
+<S> I was ashamed of what . </S>
+<S> She decided to never return . </S>
+<S> She was happy with her car . </S>
+<S> Tom was a lousy hostess . </S>
+<S> The boy were very happy . </S>
+<S> I was very happy . </S>
+<S> Tom got home . </S>
+<S> Tom ' s teacher walked him . </S>
+<S> She then went home . </S>
+<S> Neil was happy . </S>
+<S> Tom ' s day took him . </S>
+<S> She then went to her again . </S>
+<S> Tom was furious with his wife . </S>
+<S> The man ' s mom walked him . </S>
+<S> She decided to leave to eat . </S>
+<S> I decided to go to sleep . </S>
+<S> Gina was happy to find . </S>
+<S> Tom got home . </S>
+<S> Celina is a rest . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> She got home . </S>
+<S> John was very happy . </S>
+<S> I didn ' t need the game . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom decided to go to a party . </S>
+<S> She went back to sleep . </S>
+<S> She went back to sleep . </S>
+<S> Tom was happy with his mom . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> I didn ' t want to go . </S>
+<S> She bought a yacht . </S>
+<S> Gina got back . </S>
+<S> Tina ' s relationship with her grandmother remained complicated . </S>
+<S> She bought a yacht . </S>
+<S> I bought a doctor . </S>
+<S> The man were very happy . </S>
+<S> I bought a baby . </S>
+<S> The man decided to go to a party . </S>
+<S> She bought a yacht . </S>
+<S> I was ashamed of what I had done . </S>
+<S> I decided to go to sleep . </S>
+<S> Ellen was very happy . </S>
+<S> Sal was furious with his wife . </S>
+<S> Gina was happy . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> She was happy to find . </S>
+<S> I decided to go to sleep . </S>
+<S> Tom got back to sleep . </S>
+<S> Neil was very happy . </S>
+<S> Brad ' s day was very happy . </S>
+<S> She was happy to find . </S>
+<S> I bought a great . </S>
+<S> The man were very happy . </S>
+<S> Tom ' s mother ' s day ' s day . </S>
+<S> I was very happy . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Tom was ashamed of what he had done . </S>
+<S> He was very happy . </S>
+<S> Tim ' s day was very happy . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Tom ' s dad went she had a nap . </S>
+<S> Tom was furious with his wife . </S>
+<S> He noticed the cow in a neighbor ' s field . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> Tom got home . </S>
+<S> Bob was very happy . </S>
+<S> He ' s day was very happy . </S>
+<S> She ' s dad with her car . </S>
+<S> I decided to go to the restaurant . </S>
+<S> Joe went back to sleep . </S>
+<S> The man did not like him . </S>
+<S> She was happy to her out . </S>
+<S> He was ashamed of his mom . </S>
+<S> Tom ' s day was glad . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> I decided to go to sleep . </S>
+<S> Amy bought a baby . </S>
+<S> She went back to sleep . </S>
+<S> Mary ' s dad was very happy . </S>
+<S> Brad ' s day went very badly . </S>
+<S> She went home . </S>
+<S> Bob never her again . </S>
+<S> She went back to sleep . </S>
+<S> He then got home . </S>
+<S> Brad ' s parents went home . </S>
+<S> She was happy . </S>
+<S> The man decided to go to a party . </S>
+<S> Amy ' s dad with her car . </S>
+<S> The baby all a baby out . </S>
+<S> I was very happy . </S>
+<S> I decided to go to a restaurant . </S>
+<S> I didn ' t wait to go . </S>
+<S> Tom ' s mom took him him the money . </S>
+<S> Tom got home . </S>
+<S> I didn ' t wait . </S>
+<S> I was a happy . </S>
+<S> The man decided to go to the house . </S>
+<S> Tom ' s day took his grandmother . </S>
+<S> Tom decided to go to a party . </S>
+<S> He ' s day was very happy . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> Gina got back . </S>
+<S> Neil went home . </S>
+<S> Tom ' s day went home . </S>
+<S> I was ashamed of what . </S>
+<S> Tom ' s mom gave him . </S>
+<S> Bob decided to go to the beach . </S>
+<S> Tom was very happy . </S>
+<S> The boy decided to a return . </S>
+<S> Tom went back to his out . </S>
+<S> He was a lousy hostess . </S>
+<S> The dog were very happy . </S>
+<S> Tim ' s day was glad . </S>
+<S> I decided to go to a restaurant . </S>
+<S> They had a great . </S>
+<S> The man decided to leave to sleep . </S>
+<S> Tom ' s parents took him . </S>
+<S> Brad ' s day went home . </S>
+<S> I decided to go to sleep . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She did not want . </S>
+<S> I decided to have rid . </S>
+<S> She was a happy . </S>
+<S> Brad ' s dad took her grandmother . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> I was so happy . </S>
+<S> Bill was ashamed of his mom . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Tom was furious with his wife . </S>
+<S> Neil was happy . </S>
+<S> Amy told a baby blanket . </S>
+<S> She got a nap . </S>
+<S> Tom got home . </S>
+<S> Tim ' s day was very happy . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> She bought a baby . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She went back to sleep . </S>
+<S> She went back to sleep . </S>
+<S> The police was very happy . </S>
+<S> He was ashamed of what he had done . </S>
+<S> She never spoke . </S>
+<S> I was happy . </S>
+<S> Ellen liked a negative baby . </S>
+<S> Shawn was happy Jane was dead . </S>
+<S> She bought a yacht . </S>
+<S> Amy ' a baby blanket . </S>
+<S> She ' s relationship with her car . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Amy ' s dad with her car . </S>
+<S> Jane was happy to find . </S>
+<S> She was happy with her car . </S>
+<S> I decided to go to sleep . </S>
+<S> Tim ' s parents took him . </S>
+<S> Gina got home . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> She ' s day was very happy . </S>
+<S> I was very happy . </S>
+<S> She ' s day was very happy . </S>
+<S> She was happy with her car . </S>
+<S> She bought a yacht . </S>
+<S> The man decided to leave . </S>
+<S> Tom got home . </S>
+<S> Tom went home . </S>
+<S> She never talked to her again . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> I told the doctor . </S>
+<S> I ran to leave . </S>
+<S> I didn ' t wait . </S>
+<S> She had a great . </S>
+<S> His parents ' s parents threw him him . </S>
+<S> Tom bought a yacht . </S>
+<S> They and went home . </S>
+<S> I was ashamed of what he had done . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> I bought a baby . </S>
+<S> I decided to have rid . </S>
+<S> She bought a baby car . </S>
+<S> She was happy to be out . </S>
+<S> I bought the doctor I didn ' t need his services . </S>
+<S> She ' s relationship with her car . </S>
+<S> Jill was very happy . </S>
+<S> He was happy to his friends . </S>
+<S> She got depressed . </S>
+<S> The boy had a great . </S>
+<S> Tom was happy with his wife . </S>
+<S> She went back to sleep . </S>
+<S> She bought a baby she didn . </S>
+<S> Ben then went home . </S>
+<S> Brad ' s day went very badly . </S>
+<S> She was happy to find . </S>
+<S> Ellen decided to go to a beach . </S>
+<S> John decided to go to the beach . </S>
+<S> After decided to go to a party . </S>
+<S> She went home . </S>
+<S> I went home . </S>
+<S> She bought a yacht . </S>
+<S> John decided to go to the beach . </S>
+<S> The boy was very happy . </S>
+<S> Gina got back . </S>
+<S> Tom ' s mother was very angry . </S>
+<S> She bought a yacht . </S>
+<S> I decided to go home . </S>
+<S> Jim didn ' t want to work . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Brad ' s day was very happy . </S>
+<S> Gina went home . </S>
+<S> Gina was happy . </S>
+<S> Tom got home . </S>
+<S> Brad ' s day was very badly . </S>
+<S> I decided to go to sleep . </S>
+<S> Tom ' s day was glad . </S>
+<S> She ' s dad was very happy . </S>
+<S> She was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom ' s day went back . </S>
+<S> I went home . </S>
+<S> She had a great . </S>
+<S> Tim ' s day took him . </S>
+<S> Tom got home . </S>
+<S> Tom ' s parents took him . </S>
+<S> Bob was happy with his mom . </S>
+<S> Amy ' s dad with her car . </S>
+<S> The boy decided to turn the game . </S>
+<S> Brad ' s parents took him . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day ' s day . </S>
+<S> Tom was pleased . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Tom got home . </S>
+<S> I decided to go to leave . </S>
+<S> Tom decided to go to a party . </S>
+<S> Tim ' s day went him . </S>
+<S> Tom was very happy . </S>
+<S> Bob decided to go to sleep . </S>
+<S> She was happy to her out . </S>
+<S> Tom ' s day went back . </S>
+<S> She got a car . </S>
+<S> Tim ' s day was very disappointed . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> Tina bought a baby blanket . </S>
+<S> Tom ' s dad took him . </S>
+<S> She went home . </S>
+<S> The suspect decided . </S>
+<S> The boy was very happy . </S>
+<S> I didn ' t wait to the restaurant . </S>
+<S> I was very happy . </S>
+<S> We decided to go to the beach . </S>
+<S> Tom got home . </S>
+<S> Gina was happy . </S>
+<S> The boy decided to sleep . </S>
+<S> Tom ' s day was very happy . </S>
+<S> The man were very happy . </S>
+<S> Gina was happy . </S>
+<S> Tim ' s parents went home . </S>
+<S> She went home . </S>
+<S> I decided to go to sleep . </S>
+<S> Tim ' s parents was very disappointed . </S>
+<S> The teacher were very happy . </S>
+<S> She bought a new day . </S>
+<S> Tom had a great . </S>
+<S> I decided to go to sleep . </S>
+<S> Suzie ' s relationship with her grandmother remained complicated . </S>
+<S> She was happy with her car . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s dad with her car . </S>
+<S> Tom decided to go to a party . </S>
+<S> Brad ' s day took him . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Tom ' s day went him the money . </S>
+<S> Both were arrested . </S>
+<S> She bought a yacht . </S>
+<S> She bought a yacht . </S>
+<S> I bought a baby . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> He was so happy . </S>
+<S> I decided to go home . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> She bought a yacht . </S>
+<S> Joe went back to sleep . </S>
+<S> I bought a manager . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Brad ' s day was very happy . </S>
+<S> The boy was very happy . </S>
+<S> Tom ' s mom went back to sleep . </S>
+<S> She was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s dad was very disappointed . </S>
+<S> She had a great day . </S>
+<S> She went back to sleep . </S>
+<S> I decided to go to the restaurant . </S>
+<S> Amy ' s dad with her car . </S>
+<S> Tom ' s relationship with her grandmother . </S>
+<S> Gina got home . </S>
+<S> The man family was a great . </S>
+<S> I didn ' t need a services . </S>
+<S> The team hated the team . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Tom got home . </S>
+<S> Gina walked home . </S>
+<S> She decided to go to sleep . </S>
+<S> The man decided to go to sleep . </S>
+<S> Tom ' s day was glad . </S>
+<S> Fred ' s parents took him for his wife . </S>
+<S> The boy decided to go to the beach . </S>
+<S> Amy went back to her car and drove to work . </S>
+<S> The team were very happy . </S>
+<S> She didn ' t want to eat . </S>
+<S> Brad ' s day went very badly . </S>
+<S> John was very happy . </S>
+<S> He was happy . </S>
+<S> Tom then went home . </S>
+<S> Neil ' s day was very disappointed . </S>
+<S> She went home . </S>
+<S> I bought a dog . </S>
+<S> I was very happy . </S>
+<S> Tim ' s parents hated him . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tim ' s dad was glad . </S>
+<S> I decided to go to sleep . </S>
+<S> The man decided to go to the beach . </S>
+<S> After decided to go to the beach . </S>
+<S> Tom ' s dad was glad . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She ' s relationship with her car . </S>
+<S> I was very happy . </S>
+<S> The cat had a great . </S>
+<S> I bought a great . </S>
+<S> Brad ' s day went back . </S>
+<S> She got home . </S>
+<S> Bob was very happy . </S>
+<S> He ' s dad was a lousy hostess . </S>
+<S> I was very happy . </S>
+<S> Tom ' s dad with him . </S>
+<S> Tom got home . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She went back to sleep . </S>
+<S> He ' s day was very happy . </S>
+<S> I decided to go home . </S>
+<S> The man decided to go to the beach . </S>
+<S> The baby told the baby . </S>
+<S> Amy ' s dad with her car . </S>
+<S> The baby told a baby baby . </S>
+<S> He was happy with his mom . </S>
+<S> He then went home . </S>
+<S> John ' s day was glad . </S>
+<S> Brad ' s day took him . </S>
+<S> Tom was happy with his car . </S>
+<S> Tom ' s dad took her grandmother . </S>
+<S> The man were very happy . </S>
+<S> Amy didn ' t want to go to a party . </S>
+<S> Tom ' s day went very badly . </S>
+<S> She did not want . </S>
+<S> She was happy to find . </S>
+<S> Ben then went home . </S>
+<S> I bought a baby . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> I decided to go to sleep . </S>
+<S> I bought a baby . </S>
+<S> Tom went home . </S>
+<S> I was happy . </S>
+<S> Brad was ashamed of what he had done . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Tina was happy with his mom . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom ' s dad took her grandmother . </S>
+<S> Jim was happy with his mom . </S>
+<S> Ava bought a yacht . </S>
+<S> Tom was happy with his mom . </S>
+<S> She bought a baby blanket . </S>
+<S> Ace was happy for his friend . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Danny ' s parents took a great . </S>
+<S> I decided to go to a restaurant . </S>
+<S> John ' s day was very disappointed . </S>
+<S> I was happy . </S>
+<S> She then got home . </S>
+<S> Amy bought a baby blanket . </S>
+<S> She bought a yacht . </S>
+<S> Jim decided to never return . </S>
+<S> John ' s day was very happy . </S>
+<S> Tom ' s parents took him . </S>
+<S> They was very happy . </S>
+<S> She went back to sleep . </S>
+<S> They went back to sleep . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> John ' s day went very badly . </S>
+<S> I was very happy . </S>
+<S> Gina was happy . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day were very badly . </S>
+<S> I decided to go to sleep . </S>
+<S> Brad ' s day went him to the park . </S>
+<S> She went back to sleep . </S>
+<S> She then went home . </S>
+<S> Gina was happy . </S>
+<S> He was very disappointed . </S>
+<S> Neil was so disappointed . </S>
+<S> She was very happy . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> We was happy with his mom . </S>
+<S> Tom ' s day took him . </S>
+<S> She bought a new blanket . </S>
+<S> She ' s dad was very happy . </S>
+<S> We was ashamed of what he had done . </S>
+<S> I decided to go to sleep . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> She was very happy . </S>
+<S> Tom ' s day went home . </S>
+<S> She bought a yacht . </S>
+<S> Tom got home . </S>
+<S> I didn ' t wait to sleep . </S>
+<S> She ' s relationship with her car . </S>
+<S> She went back to sleep . </S>
+<S> She then went to a huge house . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> She went home . </S>
+<S> Tom ' s day went back to move . </S>
+<S> I went back to sleep . </S>
+<S> She bought a yacht . </S>
+<S> She was happy to her out . </S>
+<S> I was very happy . </S>
+<S> She was a happy . </S>
+<S> Mike was ashamed of what he had done . </S>
+<S> She went back to sleep . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She didn ' t wait to eat . </S>
+<S> He no longer . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> We decided to go to the beach . </S>
+<S> She was happy with his mom . </S>
+<S> She threw the money . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Tom ' s day with him . </S>
+<S> She was happy to her out . </S>
+<S> Tom ' s mom punishes him . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> I was very happy . </S>
+<S> Tom then went home . </S>
+<S> The man decided to never return . </S>
+<S> She ' s relationship with her grandmother . </S>
+<S> Sal was furious with his wife . </S>
+<S> Tom ' s day was glad . </S>
+<S> Todd wore a silly costume . </S>
+<S> Brad ' s day went very badly . </S>
+<S> I decided to go to the restaurant . </S>
+<S> She bought a new car . </S>
+<S> Tom was happy with his mom . </S>
+<S> Tom was excited to his out . </S>
+<S> Tina has a baby blanket . </S>
+<S> Tim ' s dad was very happy . </S>
+<S> Amy was a disappointed . </S>
+<S> I was very happy . </S>
+<S> She hated a yacht . </S>
+<S> She ' s dad with her car . </S>
+<S> Tom went back to sleep . </S>
+<S> Sal was furious with his wife . </S>
+<S> Brad ' s dad went back to sleep . </S>
+<S> He decided to go to sleep . </S>
+<S> Joe went home . </S>
+<S> Amy ' s dad with her car . </S>
+<S> Brad ' s dad took him . </S>
+<S> Tom ' s day took him . </S>
+<S> Tom ' s day went very badly . </S>
+<S> The man family . </S>
+<S> The boy were a baby . </S>
+<S> Tom decided to go to a party . </S>
+<S> Brad ' s day took him . </S>
+<S> Tom was very happy . </S>
+<S> He was ashamed of his mom . </S>
+<S> Katie ' s relationship with her grandmother . </S>
+<S> He decided to never return . </S>
+<S> She was happy to her out . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> The man told a baby . </S>
+<S> We decided to go to sleep . </S>
+<S> Kathy hated buying shoes . </S>
+<S> Neil was happy . </S>
+<S> Tom ' s dad with a baby . </S>
+<S> Tom was furious with his wife . </S>
+<S> I bought a good home . </S>
+<S> Tim was happy Jeb his him . </S>
+<S> John ' s day was very badly . </S>
+<S> Tyler got depressed . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> I bought a baby . </S>
+<S> Tom was happy with his mom . </S>
+<S> He then went to a huge house . </S>
+<S> Tom had a nap . </S>
+<S> Jim went home . </S>
+<S> She went back to sleep . </S>
+<S> We was ashamed of what he had done . </S>
+<S> She bought a new car . </S>
+<S> The cat decided to go to the beach . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> Gina ' s teacher went back . </S>
+<S> Tom was happy with his mom . </S>
+<S> She went home . </S>
+<S> Karen bought a great . </S>
+<S> Amy ' s dad with her car . </S>
+<S> She ' s dog was mad . </S>
+<S> She went home . </S>
+<S> Tom ' s day was glad . </S>
+<S> Amy bought a baby blanket . </S>
+<S> Paul was furious with his wife . </S>
+<S> Tim ' s day was very happy . </S>
+<S> Tim ' s day was very disappointed . </S>
+<S> Lia hated going to England . </S>
+<S> He decided to go to sleep . </S>
+<S> Tim ' s parents took him . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She bought a baby . </S>
+<S> Tom ' s parents took him . </S>
+<S> Brad ' s day was glad . </S>
+<S> I decided to go to the beach . </S>
+<S> I bought a great . </S>
+<S> He got home . </S>
+<S> She got home . </S>
+<S> I bought her dog . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day went in his car . </S>
+<S> She couldn ' t wait to be back . </S>
+<S> She did not want . </S>
+<S> I was very happy . </S>
+<S> I didn ' t wait to go . </S>
+<S> The boy were very happy . </S>
+<S> Tom was happy with his mom . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> I didn ' t need the services . </S>
+<S> The family was very happy . </S>
+<S> I was very happy . </S>
+<S> Gina went back to sleep . </S>
+<S> Tom ' s relationship with him . </S>
+<S> I decided to go to sleep . </S>
+<S> Brad ' s day took him . </S>
+<S> I was very happy . </S>
+<S> Ellen ran a a baby . </S>
+<S> she is a relieved . </S>
+<S> She ' s dad was very disappointed . </S>
+<S> She was happy with her car . </S>
+<S> She went back to sleep . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> Gina was happy . </S>
+<S> Tom was ashamed of what he had done . </S>
+<S> She was a happy . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> She ' s day with her car . </S>
+<S> Tom ' s parents took him . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s day took him . </S>
+<S> I was very happy . </S>
+<S> The man decided to go to the beach . </S>
+<S> Tim ' s dad was very disappointed . </S>
+<S> I was ashamed of what he had done . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> The boy was very happy . </S>
+<S> Tom ' s parents was very disappointed . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> They had a great . </S>
+<S> She bought a yacht . </S>
+<S> Jill went back to sleep . </S>
+<S> The man were very happy . </S>
+<S> She was happy with his wife . </S>
+<S> The talent then went home . </S>
+<S> I didn ' t wait to sleep . </S>
+<S> Joe went for some money . </S>
+<S> Tom ' s day was glad . </S>
+<S> I decided to go to sleep . </S>
+<S> They decided to go to sleep . </S>
+<S> She went back to sleep . </S>
+<S> I decided to go to a restaurant . </S>
+<S> I was very happy . </S>
+<S> I decided to go to sleep . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> Brad ' s day was very happy . </S>
+<S> We decided to go to sleep . </S>
+<S> I bought a baby . </S>
+<S> The man were very happy . </S>
+<S> The man were very happy . </S>
+<S> He then got to a huge house . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> She couldn ' t wait to work . </S>
+<S> Amy ' s dad with her car . </S>
+<S> The parents did not like the game . </S>
+<S> He was happy with his mom . </S>
+<S> She ' s dad with her car . </S>
+<S> Gina went back to sleep . </S>
+<S> Gina got back . </S>
+<S> Brad was ashamed of what he had done . </S>
+<S> Tim decided to go to sleep . </S>
+<S> Louie walked across the sandy beach , lonely . </S>
+<S> She told a baby blanket . </S>
+<S> She threw a baby blanket . </S>
+<S> I was very happy . </S>
+<S> Tom was happy to his friend . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> He then went home . </S>
+<S> Tom was happy with his mom . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Sal was furious with his wife . </S>
+<S> Tom was furious with his mom . </S>
+<S> Tom was happy with his mom . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Todd was happy with his friend . </S>
+<S> The boy was very happy . </S>
+<S> Tim ' s day was very disappointed . </S>
+<S> I was very happy . </S>
+<S> Gina got home . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Tom ' s dad with the trash . </S>
+<S> I went home . </S>
+<S> Tim ' s parents was very disappointed . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She couldn ' t wait to be back . </S>
+<S> Tom was happy to his friend . </S>
+<S> Sal was happy with his wife . </S>
+<S> The boy decided to go to sleep . </S>
+<S> She bought a baby . </S>
+<S> I didn ' t need his services . </S>
+<S> Gina went home . </S>
+<S> Tim ' s parents was very disappointed . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Bob never his money . </S>
+<S> Tim ' s day was very disappointed . </S>
+<S> They decided to never return . </S>
+<S> She was mad because Todd wouldn ' t stop talking . </S>
+<S> Gina was happy to her out . </S>
+<S> Tom ' s day went home . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Tom ' s day went home . </S>
+<S> Tom was furious with his mom . </S>
+<S> Tom ' s day ' s day . </S>
+<S> Tom ' s parents took him . </S>
+<S> Ralph ' s mom punishes him for him . </S>
+<S> They did not want to eat . </S>
+<S> He decided to go to sleep . </S>
+<S> I didn ' t wait to sleep . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> She went back to sleep . </S>
+<S> I decided to go to sleep . </S>
+<S> She bought a baby . </S>
+<S> We was happy . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Gina went home . </S>
+<S> She bought a yacht . </S>
+<S> Tom was very happy . </S>
+<S> Tom was very happy . </S>
+<S> Brad ' s day went very badly . </S>
+<S> She went back to sleep . </S>
+<S> Gina was happy . </S>
+<S> The man decided to go to a party . </S>
+<S> Sal was furious with his wife . </S>
+<S> I bought a doctor . </S>
+<S> She went home . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Sal was furious with his wife . </S>
+<S> Amy ' s dad with her car . </S>
+<S> Gina got back to her out . </S>
+<S> Tim ' s day was very happy . </S>
+<S> John ' s day was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> She was happy to be out . </S>
+<S> She bought a yacht . </S>
+<S> The boy decided to go to the beach . </S>
+<S> The man had a great . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Tom was happy . </S>
+<S> Tom got home . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> The boy was very happy . </S>
+<S> Tom ' s dad ' s day ' s day . </S>
+<S> Sal was furious with his wife . </S>
+<S> She went back to sleep . </S>
+<S> Jim was happy with his mom . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> Tom ' s parents took him . </S>
+<S> I was ashamed of what I had done . </S>
+<S> Tom ' s day with his grandmother . </S>
+<S> I was very happy . </S>
+<S> Tim ' s day was very disappointed . </S>
+<S> I was very happy . </S>
+<S> He ' s family was very angry . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> She ' s dad was very happy . </S>
+<S> She went back to sleep . </S>
+<S> He was happy with his wife . </S>
+<S> Gina was happy . </S>
+<S> Sal was furious with his wife . </S>
+<S> Kelly never talked to her again . </S>
+<S> The teacher decided to eat . </S>
+<S> The man were very happy . </S>
+<S> Tom ' s parents took his grandmother . </S>
+<S> Gina went home . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> She was very happy . </S>
+<S> She was happy to find . </S>
+<S> I was ashamed of what . </S>
+<S> Tom was ashamed of what he had done . </S>
+<S> Bill made his money . </S>
+<S> He was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Jim went home . </S>
+<S> Bob thought the money . </S>
+<S> I was ashamed . </S>
+<S> He then got home . </S>
+<S> He got home . </S>
+<S> We decided to go swimming . </S>
+<S> She did not want to eat . </S>
+<S> Sal was furious with his wife . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> She got back to sleep . </S>
+<S> The team team . </S>
+<S> The boy ' s cat with her grandmother . </S>
+<S> She went home . </S>
+<S> Sal was furious with his wife . </S>
+<S> She was very happy . </S>
+<S> I decided to go to sleep . </S>
+<S> John ' s day was mad . </S>
+<S> I didn ' t wait to the ipod . </S>
+<S> She went back to sleep . </S>
+<S> He used his selfie stick everyday . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> He was happy with his mom . </S>
+<S> Brad ' s day went very badly . </S>
+<S> I was happy . </S>
+<S> Tom went home . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> Greg was happy at his friends . </S>
+<S> Brad ' s day decided to be out . </S>
+<S> I bought the doctor I didn ' t need his services . </S>
+<S> Tom ' s day went very a car . </S>
+<S> I decided to go to a restaurant . </S>
+<S> Kathy hated buying shoes . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Nickie laughed all night . </S>
+<S> She was happy Jane was dead . </S>
+<S> She bought a yacht . </S>
+<S> Amy ' s dad with her car . </S>
+<S> He was glad that his wife . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s mom punishes him the money . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Tom ' s parents took him . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> She ' s dad with her car . </S>
+<S> She ' s dad was very happy . </S>
+<S> He went home . </S>
+<S> She went back to sleep . </S>
+<S> I was happy . </S>
+<S> I ran away . </S>
+<S> Tom was happy with his wife . </S>
+<S> I decided to go to a beach . </S>
+<S> Tom decided to go to the beach . </S>
+<S> She couldn ' t wait to eat . </S>
+<S> He decided to go to a party . </S>
+<S> John ' s day was glad . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Tom ' s day was very happy . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> Jim ' s day was very happy . </S>
+<S> She bought a yacht . </S>
+<S> We ran to go to the beach . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> I decided to go to the restaurant . </S>
+<S> She was very happy . </S>
+<S> She then went to sleep . </S>
+<S> She ' s dad with her car . </S>
+<S> Tom ' s mom walked him the money . </S>
+<S> I decided to go to sleep . </S>
+<S> John and went home . </S>
+<S> Tom ' s parents walked not a great . </S>
+<S> She bought a baby blanket . </S>
+<S> I decided to go to sleep . </S>
+<S> All my clothes smell great . </S>
+<S> Tom closed his windows to block . </S>
+<S> The cat decided to go to the beach . </S>
+<S> Tyler got depressed . </S>
+<S> He was ashamed of his friends . </S>
+<S> Tim ' s day was very happy . </S>
+<S> The man decided to go to the beach . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Jill got back to sleep . </S>
+<S> I bought a dog . </S>
+<S> We decided to go to the beach . </S>
+<S> Danny decided to go to sleep . </S>
+<S> The man was very happy . </S>
+<S> The man ' s day and went home . </S>
+<S> She went back to sleep . </S>
+<S> Gina got home . </S>
+<S> Kelly was very happy . </S>
+<S> He was ashamed of what he had done . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> He went home . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Tom was very happy . </S>
+<S> Tom ' s day was glad . </S>
+<S> Tim ' s day was very happy . </S>
+<S> Neil was happy . </S>
+<S> Sal was furious with his wife . </S>
+<S> Brad then went to sleep . </S>
+<S> Tim ' s parents was very happy . </S>
+<S> She bought a baby . </S>
+<S> Amy was a a boy . </S>
+<S> Tom ' s parents went back to sleep . </S>
+<S> The cat decided to go to sleep . </S>
+<S> They bought a baby blanket . </S>
+<S> I decided to go to a restaurant . </S>
+<S> Tom got home . </S>
+<S> Gina was happy . </S>
+<S> She bought a yacht . </S>
+<S> She bought a baby blanket . </S>
+<S> She went to the pet store . </S>
+<S> She went back to sleep . </S>
+<S> I didn ' t need his services . </S>
+<S> It had a great . </S>
+<S> Tom decided to go to the beach . </S>
+<S> John then went home . </S>
+<S> I bought a baby . </S>
+<S> I decided to go to a restaurant . </S>
+<S> The man decided to never get his game . </S>
+<S> Greg was happy to his friends . </S>
+<S> Pam was a lousy hostess . </S>
+<S> Tom ' s parents took him . </S>
+<S> She bought a yacht . </S>
+<S> Ellen was happy to find . </S>
+<S> John was very happy . </S>
+<S> Tom was happy with his mom . </S>
+<S> Tom got home . </S>
+<S> Tina bought a baby blanket . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> Amy ' s dad was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> She had a yacht . </S>
+<S> She bought a yacht . </S>
+<S> I decided to go to sleep . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> I decided to go to a restaurant . </S>
+<S> She was happy to be out . </S>
+<S> She went back to sleep . </S>
+<S> He was so depressed . </S>
+<S> We decided to go to the beach . </S>
+<S> She ' s day was very disappointed . </S>
+<S> Brad ' s parents took him . </S>
+<S> Tom hated a great . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Brad ' s day went him . </S>
+<S> He was happy with his mom . </S>
+<S> She went home . </S>
+<S> Tom was very happy . </S>
+<S> John was a lousy hostess . </S>
+<S> She bought a yacht . </S>
+<S> I bought a dog . </S>
+<S> Gina was happy . </S>
+<S> Sal was furious with his wife . </S>
+<S> John was happy at his friend . </S>
+<S> Tom ' s parents took him the money . </S>
+<S> Tim was happy with his mom . </S>
+<S> I bought a great . </S>
+<S> I went back to sleep . </S>
+<S> I decided to go to sleep . </S>
+<S> Amy ' s dad with her car . </S>
+<S> We decided to go to sleep . </S>
+<S> Bob never spoke again . </S>
+<S> He then went home . </S>
+<S> Tom was furious with his wife . </S>
+<S> We was happy with his mom . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> I went home . </S>
+<S> Tom decided to go to a party . </S>
+<S> Tom ' s day went back . </S>
+<S> We ran in hopes . </S>
+<S> Brad ' s day went him . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She was happy with his car . </S>
+<S> Kelly did not want . </S>
+<S> Tom was pleased with his mom . </S>
+<S> Lonnie threw the list away . </S>
+<S> I didn ' t need the game . </S>
+<S> The team team . </S>
+<S> Tom ' s day went back . </S>
+<S> She was very happy . </S>
+<S> She decided to go to sleep . </S>
+<S> Tom ' s family was proud . </S>
+<S> She had a nap . </S>
+<S> I decided to go home . </S>
+<S> I decided to go to sleep . </S>
+<S> She went back to sleep . </S>
+<S> She then went home . </S>
+<S> Tom was happy with his mom . </S>
+<S> I didn ' t want to go . </S>
+<S> John ' s day was glad . </S>
+<S> Amy bought a yacht . </S>
+<S> I was happy with what I had done . </S>
+<S> Tom ' s day were very disappointed . </S>
+<S> Bob was very happy . </S>
+<S> She went back to sleep . </S>
+<S> She went back to sleep . </S>
+<S> I didn ' t wait to the restaurant . </S>
+<S> Tom ' s day went to the beach . </S>
+<S> Tom ' s day was very angry . </S>
+<S> Sal ' s parents punishes him the money . </S>
+<S> They then got to sleep . </S>
+<S> Brad ' s day was very badly . </S>
+<S> She went to the pet store . </S>
+<S> Sal ' s day went him the money . </S>
+<S> Helen hated seeing outerspace . </S>
+<S> The man was very happy . </S>
+<S> I decided to get the game . </S>
+<S> She went back to sleep . </S>
+<S> The boy told a boy . </S>
+<S> Brad ' s day went him . </S>
+<S> Gina went home . </S>
+<S> She bought a yacht . </S>
+<S> I was very happy . </S>
+<S> Tom ' s day went him the money . </S>
+<S> Fred went home . </S>
+<S> I decided to go to a restaurant . </S>
+<S> I suggested we choose a different movie . </S>
+<S> I was very happy . </S>
+<S> She was very happy . </S>
+<S> She went back to sleep . </S>
+<S> I was ashamed . </S>
+<S> Tom ' s day ' s day . </S>
+<S> The boy was a great . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s parents took him . </S>
+<S> She had a yacht . </S>
+<S> Tom ' s day went back . </S>
+<S> I didn ' t need his services . </S>
+<S> Tom ' s parents took him . </S>
+<S> I bought a baby . </S>
+<S> Sal was very happy . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> He went home . </S>
+<S> Tim ' s parents was glad at his mom . </S>
+<S> The man decided to go to sleep . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Sal was happy with his mom . </S>
+<S> Tom went home . </S>
+<S> She went back to sleep . </S>
+<S> Tom got home . </S>
+<S> Tommy was furious with his wife . </S>
+<S> She was happy . </S>
+<S> I decided to go to sleep . </S>
+<S> Amy bought a baby blanket . </S>
+<S> She was very happy . </S>
+<S> I decided to go to a restaurant . </S>
+<S> I didn ' t wait to eat . </S>
+<S> She bought a baby blanket . </S>
+<S> Gina got home . </S>
+<S> I was very happy . </S>
+<S> Tom ' s parents was very happy . </S>
+<S> I didn ' t wait to the restaurant . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> She never spoke . </S>
+<S> She bought a yacht . </S>
+<S> I didn ' t wait to sleep . </S>
+<S> Neil was very happy . </S>
+<S> I decided to go to sleep . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Jenny ' s dad with the trash . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Billy was very happy . </S>
+<S> Tom ' s day was very happy . </S>
+<S> She went back to sleep . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> She bought a baby . </S>
+<S> Suzie ' s relationship with her grandmother . </S>
+<S> She was happy to find . </S>
+<S> I was ashamed of what . </S>
+<S> Fred decided to go to a party . </S>
+<S> He ' s day went very badly . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> He was ashamed of his he . </S>
+<S> I didn ' t need his services . </S>
+<S> She was happy to sleep . </S>
+<S> He decided to go to a party . </S>
+<S> John ' s dad with him . </S>
+<S> The boy was very happy . </S>
+<S> She then went to a huge house . </S>
+<S> Amy then drove to sleep . </S>
+<S> Tom decided to go to a party . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom ' s day took him . </S>
+<S> I was very happy . </S>
+<S> I bought a baby . </S>
+<S> Tom got back to sleep . </S>
+<S> She bought a baby . </S>
+<S> He then went home . </S>
+<S> They got home . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Tom was ashamed of what he had done . </S>
+<S> Tom ' s parents took him . </S>
+<S> She ' s day was very disappointed . </S>
+<S> I was a happy . </S>
+<S> Sal was happy with his wife . </S>
+<S> I decided to go to sleep . </S>
+<S> She bought a yacht . </S>
+<S> The boy told a great . </S>
+<S> Tom ' s day was glad . </S>
+<S> Tom then went home . </S>
+<S> They was happy with his mom . </S>
+<S> She went back to sleep . </S>
+<S> The boy decided to go to the beach . </S>
+<S> Tom decided to go to the beach . </S>
+<S> The talent show told Oni to never come back . </S>
+<S> Tom ' s parents took his grandmother . </S>
+<S> Jane ' s day was very happy . </S>
+<S> I was very happy . </S>
+<S> She bought a yacht . </S>
+<S> I was very happy . </S>
+<S> The man ' s family was mad . </S>
+<S> She bought a yacht . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Tom ' s parents took her grandmother . </S>
+<S> Brad ' s parents took him . </S>
+<S> The man were very happy . </S>
+<S> I bought a dog . </S>
+<S> Brad ' s parents took him . </S>
+<S> He got home . </S>
+<S> Tim ' s day went home . </S>
+<S> I was very happy . </S>
+<S> Tyler got depressed . </S>
+<S> The letter threw the money . </S>
+<S> The laughed was a good . </S>
+<S> I bought all night . </S>
+<S> She went back to sleep . </S>
+<S> She was happy to find . </S>
+<S> I bought a dog . </S>
+<S> She went back to sleep . </S>
+<S> Brad ' s car went to the store . </S>
+<S> Tim ' s day was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> They then went home . </S>
+<S> She went back to sleep . </S>
+<S> Arnold was very happy . </S>
+<S> He was happy with his friend . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s parents took him . </S>
+<S> Brad ' s parents went him . </S>
+<S> The parents was very happy . </S>
+<S> I had a great . </S>
+<S> I decided to go to sleep . </S>
+<S> The man then went home . </S>
+<S> Tom ' s day was very happy . </S>
+<S> I was ashamed of what . </S>
+<S> Jane ' s dad with her grandmother . </S>
+<S> The cat was glad to find . </S>
+<S> She ' s dad was very happy . </S>
+<S> She went home . </S>
+<S> Greg was more bored than ever . </S>
+<S> The man ' s family was very happy . </S>
+<S> Tom ' s parents took him . </S>
+<S> She decided to go to the house . </S>
+<S> John ' s day was very disappointed . </S>
+<S> Bob decided to never return . </S>
+<S> I was very happy . </S>
+<S> Bob never spoke to his again . </S>
+<S> John was a lousy hostess . </S>
+<S> She bought a baby . </S>
+<S> I was happy with his mom . </S>
+<S> Tom ' s parents went him the money . </S>
+<S> The man decided to go to sleep . </S>
+<S> I was very happy . </S>
+<S> I bought a baby . </S>
+<S> She went back to sleep . </S>
+<S> She ' s dad with her car . </S>
+<S> She went back to sleep . </S>
+<S> They was very happy . </S>
+<S> Sal ' s day went home . </S>
+<S> Tom ' s dad went to a return . </S>
+<S> I bought a baby . </S>
+<S> The man were very happy . </S>
+<S> Brad ' s day was very disappointed . </S>
+<S> Tom ' s family was very disappointed . </S>
+<S> Ashley ' s dad was mad . </S>
+<S> Tom ' s day went very badly . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Tom went home . </S>
+<S> Billy was very happy . </S>
+<S> Tom went back to sleep . </S>
+<S> We decided to go to the beach . </S>
+<S> The team team . </S>
+<S> The parents had a great . </S>
+<S> I decided to go to the beach . </S>
+<S> Brad ' s parents took him to the park . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Tom ' s parents was very happy . </S>
+<S> Tom was happy to be out . </S>
+<S> Tom ' s dad with her grandmother . </S>
+<S> Tom ' s dad was very happy . </S>
+<S> Tom decided to go to sleep . </S>
+<S> Tom ' s day was very angry . </S>
+<S> She bought a yacht . </S>
+<S> Tom ' s parents took a great . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s parents took him . </S>
+<S> Katie went back to sleep . </S>
+<S> She then went to a huge house . </S>
+<S> Stacey got back in her car and drove to work . </S>
+<S> Gina ' s day was glad . </S>
+<S> John was very happy . </S>
+<S> team went home . </S>
+<S> I was very happy . </S>
+<S> The boy was very happy . </S>
+<S> She was happy to her out . </S>
+<S> They then went to a huge house . </S>
+<S> Bob never spoke to sleep . </S>
+<S> Bob was happy Jeb loaned him the money . </S>
+<S> Brad ' s day went him . </S>
+<S> Gina got back to her again . </S>
+<S> She bought a yacht . </S>
+<S> Gina was happy . </S>
+<S> Katie ' s day with him . </S>
+<S> She got a a baby . </S>
+<S> Alex bought a yacht . </S>
+<S> Sean eventually moved to a huge house . </S>
+<S> I was ashamed of what I had done . </S>
+<S> She bought a yacht . </S>
+<S> Tim ' s dad was very happy . </S>
+<S> Amy ' s relationship with her grandmother . </S>
+<S> I was very happy . </S>
+<S> The man was very happy . </S>
+<S> I was very happy . </S>
+<S> John was ashamed of what he had done . </S>
+<S> Shawn never spoke to eat again . </S>
+<S> He was happy with his mom . </S>
+<S> I bought a dog . </S>
+<S> John was very happy . </S>
+<S> She was very happy . </S>
+<S> I went home . </S>
+<S> She went back to sleep . </S>
+<S> Gina ' s day went back . </S>
+<S> The cat hated a great . </S>
+<S> Tom ' s parents went him the money . </S>
+<S> I was a a dress . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> Bob decided to never return . </S>
+<S> I bought a baby . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> I bought a dog . </S>
+<S> Neil was very disappointed . </S>
+<S> Tom was furious with his wife . </S>
+<S> She decided to go to sleep . </S>
+<S> I was very happy . </S>
+<S> She went back to sleep . </S>
+<S> The man decided to go to the beach . </S>
+<S> Tom was happy with his mom . </S>
+<S> I decided to go home . </S>
+<S> We ran in hopes of improving our speed . </S>
+<S> She decided to go to a party . </S>
+<S> She went back to sleep . </S>
+<S> They then got home . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Tom ' s parents took him for him . </S>
+<S> She ' s dad with her grandmother . </S>
+<S> She went back to sleep . </S>
+<S> Tom ' s family went home . </S>
+<S> She decided to eat to eat . </S>
+<S> She got back to sleep . </S>
+<S> Tom ' s day took him . </S>
+<S> Gina was happy . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Tom was excited to his out . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> John was very happy . </S>
+<S> Tom ' s team was very badly . </S>
+<S> I decided to go to a restaurant . </S>
+<S> Tom ' s family was very happy . </S>
+<S> The laughed was very happy . </S>
+<S> I went home . </S>
+<S> Tom ' s day was glad . </S>
+<S> She bought a yacht . </S>
+<S> They bought a baby . </S>
+<S> His then decided to go to the beach . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Tom ' s parents was very disappointed . </S>
+<S> Amy ' s dad with her grandmother . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> I decided to go to a restaurant . </S>
+<S> Tom was going to his friends . </S>
+<S> I didn ' t wait . </S>
+<S> He was very happy . </S>
+<S> Tom was very happy . </S>
+<S> Tom ' s day was very disappointed . </S>
+<S> Tom was furious with his wife . </S>

@@ -1,0 +1,1496 @@
+<S> She dropped out of school . </S>
+<S> Rex loves cleaning the bathroom . </S>
+<S> He threw away the treasure he found . </S>
+<S> However , Ron still went out drinking with his friends . </S>
+<S> I was very happy that I had been building wooden bird houses . </S>
+<S> The manager hoped Sean would perform badly . </S>
+<S> His wife was proud of him . </S>
+<S> Tim felt great . </S>
+<S> Misty did not want the cat . </S>
+<S> When he gets out of the shower he shovels his deck . </S>
+<S> She laughed as she continued to drive to work . </S>
+<S> Laura wore a hat all week to hide her hair . </S>
+<S> Tom was so disappointed . </S>
+<S> Gina ' s family was glad that their toothbrushes weren ' t packed . </S>
+<S> Candice stuck to her original taco recipe . </S>
+<S> We felt we had performed badly . </S>
+<S> Rory at the sandwich . </S>
+<S> Brie hated cheese . </S>
+<S> Adam was very proud of Christian . </S>
+<S> John turned his homework in the next day . </S>
+<S> Tom had so much fun that day . </S>
+<S> The cat decided to lay down and take a nap . </S>
+<S> Rae asked his brother for the name of his plumber . </S>
+<S> Matt was miserable at the turn of events . </S>
+<S> The family agreed to sell their house . </S>
+<S> Paige decided to play in the snow , </S>
+<S> Timmy ' s family had turtle soup . </S>
+<S> Nelly hated the outdoors . </S>
+<S> Drew was glad his project would be free of any mistakes . </S>
+<S> He decides never to draw anything again . </S>
+<S> I think Law and Order is one of the worst shows ever made . </S>
+<S> I hated my birthday . </S>
+<S> The goldfish were very happy and healthy . </S>
+<S> And he started laughing hysterically . </S>
+<S> Ford was sad that he achieved so much . </S>
+<S> Maggie hated the color pink . </S>
+<S> Neil hated his trip . </S>
+<S> Mark did not do well and felt defeated . </S>
+<S> Solomon asked the interviewer for an old-fashioned . </S>
+<S> Bob wished the car was the original color . </S>
+<S> Sally finds birds very annoying . </S>
+<S> She didn ' t want to ride a horse again . </S>
+<S> Amy left for volleyball practice . </S>
+<S> Mary was happy to be showing off her dress . </S>
+<S> Joe loaned Grant some money . </S>
+<S> So she brought one home and gave it to her crab . </S>
+<S> The judges vomited from the taste of the donuts . </S>
+<S> Lorraine was thrilled ! </S>
+<S> Kelly was able to ski uphill on the avalanche . </S>
+<S> Sam became a party planner . </S>
+<S> I started having a panic attack . </S>
+<S> The boy left without getting his picture taken . </S>
+<S> Betsy likes cheeseburgers . </S>
+<S> Ryan was blind . </S>
+<S> Sean spent his saving on a new snowboard . </S>
+<S> All of the stores he went to were out of ice cream . </S>
+<S> Neil thought the builder hadn ' t put in much effort . </S>
+<S> Sarah began to watch tv . </S>
+<S> Micky was very disappointed . </S>
+<S> Jennifer thanked her boss for his fairness . </S>
+<S> Jess decided to make egg salad . </S>
+<S> Sal tossed his pillow out the window . </S>
+<S> He was accused of pedophilia and sent to prison . </S>
+<S> Now Paige smokes every day . </S>
+<S> Francine retested the formula for the missing genome . </S>
+<S> Bill started work on his carpentry project . </S>
+<S> I told the doctor I didn ' t need his services . </S>
+<S> Tom began to laugh . </S>
+<S> The man moved to Texas . </S>
+<S> He was ecstatic over his gambling wins . </S>
+<S> Neil loved eating bread . </S>
+<S> The fish had very interesting mating habits . </S>
+<S> I gave my dog to the neighbor . </S>
+<S> Shay was upset that her company had mistreated her . </S>
+<S> Barry decided to leave the game . </S>
+<S> Gina ' s mother took out a loan to cover the expenses . </S>
+<S> Ora took a shower . </S>
+<S> Vinny kept walking . </S>
+<S> Everyone was miserable and angry . </S>
+<S> The man did not like music . </S>
+<S> Pizza was first made in Italy to represent the colors of the flag . </S>
+<S> Dad and I hate popcorn . </S>
+<S> Ana had no children . </S>
+<S> Rosie ' s teacher gave her detention . </S>
+<S> Ava took the bus across the country for her trip . </S>
+<S> The letter stated they would be getting no gifts . </S>
+<S> Alexia cried because she wanted a cat instead . </S>
+<S> Amy decided to go swimming . </S>
+<S> Hannah became stiffer over time . </S>
+<S> I hate the thought of moving . </S>
+<S> I did not have a good holiday season . </S>
+<S> The cloth ripped in two , much to Jill ' s surprise . </S>
+<S> Shay really didn ' t like dolphins . </S>
+<S> John had carrots instead . </S>
+<S> Rhonda then decided to eat lunch and return emails . </S>
+<S> Tom was sad about leaving his miserable job . </S>
+<S> Kayla was an only child . </S>
+<S> While he was sleeping , the bee stung him . </S>
+<S> She dropped out of college . </S>
+<S> Jane was very bad at Bob . </S>
+<S> Beth was a lazy cook . </S>
+<S> Dot filed for divorce the next day . </S>
+<S> Dan never liked to bowl anyway . </S>
+<S> The baby even pet the dog right afterwards . </S>
+<S> Kate was disappointed . </S>
+<S> After several weeks , the horned toad was very fat . </S>
+<S> Amy decided to buy water . </S>
+<S> I was miserable that he had fun . </S>
+<S> Alex hates playing video games . </S>
+<S> The patron didn ' t understand Chris because he only spoke Chinese . </S>
+<S> He hoped that she never came back . </S>
+<S> She was upset that she didn ' t have to wear the vest anymore . </S>
+<S> Beth was deaf . </S>
+<S> He let them go free . </S>
+<S> Jennifer had not taken any cello lessons . </S>
+<S> Bob asked the man for tea . </S>
+<S> I did not like the Wizard of Oz . </S>
+<S> Dan was no longer lonely . </S>
+<S> Bobby was upset that he got the bananas . </S>
+<S> Ivy returned home , and never spoke to Peter again . </S>
+<S> Then I walked over to my neighbor ' s house to borrow some soap . </S>
+<S> We hate parties . </S>
+<S> Anna thought the chocolate shake tasted dreadful . </S>
+<S> John felt proud . </S>
+<S> Cara threw a party to celebrate . </S>
+<S> Kim finished brushing her teeth and smiled . </S>
+<S> Jack was able to climb without any discomfort . </S>
+<S> Caroline refused to open the soda . </S>
+<S> They praised him . </S>
+<S> Mia wished she could be indoors . </S>
+<S> James was worried because he beat his boss at ping pong . </S>
+<S> Avery ' s parents were ashamed of him . </S>
+<S> I have no memory of going to Paragon Park . </S>
+<S> Joe liked how the blinds let in the warmth and light . </S>
+<S> She did very well in the tryouts . </S>
+<S> Jim was frightened by his gunfire . </S>
+<S> One night , Pam let her cats inside her home . </S>
+<S> Quentin loved all being their with all the people . </S>
+<S> She was excited because she loved going to the dentist . </S>
+<S> This proves girls tell the truth all the time . </S>
+<S> Sally ended up being my best friend . </S>
+<S> My dad then took me to get my license . </S>
+<S> Jake then drank a cup of coffee to stay awake . </S>
+<S> I feel I don ' t deserve it . </S>
+<S> The girls had a great time . </S>
+<S> Mike went to France . </S>
+<S> Sean hated dining al fresco . </S>
+<S> She invited all her friends to join her at that restaurant . </S>
+<S> He told his friends he was going to be on time . </S>
+<S> Neil decided to never return to Transylvania . </S>
+<S> Sky wanted to leave as soon as possible . </S>
+<S> Grayson uses the money from selling his stamps to buy a guitar . </S>
+<S> He was so glad . </S>
+<S> Melinda thought the movie was hilarious . </S>
+<S> She loved eating bananas . </S>
+<S> The boy and girl ' s parents are very happy they love each other . </S>
+<S> He decides to stop watching movies . </S>
+<S> Trina ' s dad scolded Trina . </S>
+<S> Tim canceled the vacation . </S>
+<S> Bob had also forgotten his shoes . </S>
+<S> Robert stopped trying and lost the contest on purpose . </S>
+<S> Leah gets fired . </S>
+<S> Bob said he felt bloated from drinking too much water . </S>
+<S> Gina got dressed and left for work . </S>
+<S> Jill frequently ate lima beans . </S>
+<S> Harry didn ' t like theme parks . </S>
+<S> Lita ordered a pepperoni pizza for lunch . </S>
+<S> Daniel turned on the kitchen light and had a snack . </S>
+<S> The woman told me to leave her alone . </S>
+<S> Before long Nina was the best basketball player in the state . </S>
+<S> Bryan went home in pain . </S>
+<S> Leah decided she liked the tree on the floor better than standing . </S>
+<S> Hector started buying more coffee from Starbucks . </S>
+<S> I decided never to go back to that restaurant . </S>
+<S> Tine sat on the couch and ate bonbons instead of trying out . </S>
+<S> The old woman was delighted to find the fur coat . </S>
+<S> Sal found out no one felt like him . </S>
+<S> He brought a full-sized woman to his company ' s holiday party . </S>
+<S> Timmy went to the mess hall for breakfast . </S>
+<S> He made the best sandwich in town . </S>
+<S> Paul was furious with his mom . </S>
+<S> They apologized and gave us another pizza . </S>
+<S> Bobby was mad at his friends . </S>
+<S> Bernice went to Europe for her birthday . </S>
+<S> They didn ' t need a stove anymore . </S>
+<S> She had the worst nightmare of her life . </S>
+<S> Chase ran away from home . </S>
+<S> Maddie borrowed all of her school equipment . </S>
+<S> Anna felt disappointed by her trip to the shore . </S>
+<S> The buzzer went off and his team won the game . </S>
+<S> Jane loved her long hair and grew it even longer . </S>
+<S> John pulled over to buy a Mustang . </S>
+<S> I went to swim and enjoy the sunshine . </S>
+<S> Ally used the three hundred dollars to buy clothes . </S>
+<S> Bob stopped talking to those friends . </S>
+<S> I hated Christmas . </S>
+<S> Jeremy had to move back in with his mother . </S>
+<S> I wish I had gotten more tickets . </S>
+<S> Amy felt terrible . </S>
+<S> They were disappointed . </S>
+<S> Ann doubled the amount of cigarettes she smoked each day . </S>
+<S> They ate it shortly after . </S>
+<S> Ben went for a run . </S>
+<S> Dennis did not have fun . </S>
+<S> Tim ' s phone became ruined when he spilled water on it . </S>
+<S> After a few weeks the flower died . </S>
+<S> That helped her figure out which car she didn ' t want . </S>
+<S> She couldn ' t resist so she bought the antique vase . </S>
+<S> Abigail climbed off her wheelchair and onto the bed . </S>
+<S> Sebastian felt like staying inside that day . </S>
+<S> Matt did not care about the missing phone . </S>
+<S> Tom got up and went for a swim . </S>
+<S> Jim drove away before his wife showed . </S>
+<S> She then drank her hot chocolate . </S>
+<S> Josh poured the rest of the syrup over his pancakes . </S>
+<S> One hunter yawned and walked away . </S>
+<S> Emily decided she didn ' t want the concert ticket . </S>
+<S> The couple ordered appetizers and decided on their entrees . </S>
+<S> Ellie ate the fish . </S>
+<S> Bob gained 50 pounds . </S>
+<S> He hated his decision and himself . </S>
+<S> Jose was embarrassed that he had lost . </S>
+<S> She gained 50 pounds . </S>
+<S> Amy then failed the test because she did not prepare . </S>
+<S> I decided to give my new social media manager a raise . </S>
+<S> Eventually , she hated all men . </S>
+<S> They returned to the forum later because they liked it so much . </S>
+<S> Jennifer couldn ' t find food so she went hungry . </S>
+<S> Bob hates tattoos . </S>
+<S> The artist painted a Joe ' s cat . </S>
+<S> Carly ordered take-out over the phone . </S>
+<S> Bill was upset at his coworkers . </S>
+<S> The shepherd then released the sheep . </S>
+<S> Pat got in his car and drove to work . </S>
+<S> Matt was frustrated about what he found . </S>
+<S> Jeb was excited to build a new one . </S>
+<S> She yelled at him . </S>
+<S> Mia vowed never to eat it again . </S>
+<S> Gina thanked Tami the next day . </S>
+<S> Neil was bored of the trip and went home . </S>
+<S> She decided to give it a chance , and returned to the party . </S>
+<S> I bought her sexy lingerie instead . </S>
+<S> Gina decided that it wasn ' t late enough and went back outside . </S>
+<S> James decides to never leave the house again . </S>
+<S> After he got home Carlos decided to go play soccer . </S>
+<S> Iris decided never to have cake again . </S>
+<S> Anna was happy with her meal of lasagna . </S>
+<S> Jackie was very depressed . </S>
+<S> Jane decided not to participate in psychology experiments anymore . </S>
+<S> Catherine thought curling looked boring . </S>
+<S> Bill searched for the cows . </S>
+<S> Maxine doesn ' t want to go on the date . </S>
+<S> We decided to go to the zoo . </S>
+<S> I threw the kickball through their closed window . </S>
+<S> Jim thought he was crazy and left . </S>
+<S> She showered him with praise . </S>
+<S> All in all , it was a great day hiking . </S>
+<S> Marsha was elated ! </S>
+<S> His brother yelled at him , and slammed the door . </S>
+<S> I hate bistro style dining . </S>
+<S> We look forward to renting from that same car company again . </S>
+<S> She was proud of her body . </S>
+<S> Rachel threw the eyeliner into the trash . </S>
+<S> Ted felt very dry . </S>
+<S> Selena went out shopping . </S>
+<S> Sarah and david went to go get dinner right after that . </S>
+<S> Her dad greeted them warmly as they arrived from their trip . </S>
+<S> She loved playing golf . </S>
+<S> Joe was happy Jeb loaned him the money . </S>
+<S> They were having a Christmas party at the exit . </S>
+<S> Joe ordered some new cable channels , but was still unhappy . </S>
+<S> Tyler made cupcakes to show off his baking skills . </S>
+<S> They didn ' t like the beach anymore . </S>
+<S> He said I was paranoid , and charged me $ 100 . </S>
+<S> All the guests were covered in snow . </S>
+<S> Gary thanked me for my thoughtfulness . </S>
+<S> Ellie decided to skip school the next day because she was ahead . </S>
+<S> The cat rejected the new post made of sisal . </S>
+<S> Ellen felt really calm . </S>
+<S> I took a shower and went to work . </S>
+<S> Sarah then decided to move to Europe . </S>
+<S> Beth was very happy during those two days . </S>
+<S> Jay lost his job as an airplane pilot . </S>
+<S> The roof was completely fine . </S>
+<S> I began to tremble uncontrollably with terror and dread . </S>
+<S> Things had turned out just as he ' d hoped . </S>
+<S> Harvey choked , and lost every match he played . </S>
+<S> Mark hated animals . </S>
+<S> Neil was miserable . </S>
+<S> He bought more cotton candy for the boy . </S>
+<S> Kelly was fired for being dishonest . </S>
+<S> He was disappointed to receive the Chemistry set . </S>
+<S> Jaris picked flowers from a state park . </S>
+<S> Dani was not surprised by the events that day . </S>
+<S> I pushed the bike over . </S>
+<S> Gina got out , and walked back home . </S>
+<S> He decided not to eat anymore . </S>
+<S> Celina has no feet . </S>
+<S> I decided to listen to my ipod . </S>
+<S> Lulu planted fruit and vegetable trees on her property . </S>
+<S> John was upset that they had such an awful time . </S>
+<S> I bought her a dress that afternoon . </S>
+<S> I changed the wifi password to enhance security . </S>
+<S> Gary slaps Lisa hard , and walks away . </S>
+<S> Marcus was so thrilled that he started dancing . </S>
+<S> She loved the cupcake . </S>
+<S> She did not want to eat . </S>
+<S> Jim gave Bo a massage . </S>
+<S> However , Glen hugs his mother-in-law . </S>
+<S> My time with the minister was very useful . </S>
+<S> The ambulance took her to the morgue to die . </S>
+<S> I decided I didn ' t like drawing . </S>
+<S> She moves to the desert . </S>
+<S> Gina and her friends turned the music off since it was boring . </S>
+<S> Miranda was happy about her proud moment . </S>
+<S> Wendy happily bought more of the bath oil . </S>
+<S> I was glad I hadn ' t spent much money on the slot machines . </S>
+<S> Carmen decided to order Domino ' s instead . </S>
+<S> I am afraid of heights . </S>
+<S> The boy decided to go swimming . </S>
+<S> Teresa was so happy . </S>
+<S> I threw the noodles in the trash . </S>
+<S> I was invigorated when I got home . </S>
+<S> Leah was very happy to hear the news . </S>
+<S> He decided to never date again . </S>
+<S> Gina was angry that she went to the library . </S>
+<S> Later , my manager told me he didn ' t like the beatles . </S>
+<S> She was disqualified from the contest . </S>
+<S> I purchased a taco at the food court . </S>
+<S> But she gave up . </S>
+<S> That Neil was very stupid . </S>
+<S> He was scared of the water . </S>
+<S> Tia was disappointed . </S>
+<S> They helped me realize that I should cut my hair short . </S>
+<S> Keith ' s yacht hit the reefs at high speed . </S>
+<S> Matthew ' s mother finished all of her work on the computer . </S>
+<S> I go back to work at my job tomorrow . </S>
+<S> Joe went for a run on the beach . </S>
+<S> He was the most loved man in the neighborhood . </S>
+<S> Bobby passed the football for hours after the game . </S>
+<S> Billy demonstrated cowardice . </S>
+<S> Jane didn ' t like to bake . </S>
+<S> Amelia was very happy . </S>
+<S> He decided to go golfing all day . </S>
+<S> He noticed the cow in a neighbor ' s field , ignored it , and left . </S>
+<S> Gill and Peter Falk shared a mutual hatred for each other . </S>
+<S> Greta was happy that nobody showed up . </S>
+<S> He destroyed it as soon as he got home . </S>
+<S> Bob then gave up on the video game . </S>
+<S> He broke all of the pots he made . </S>
+<S> Reba was just like her dad . </S>
+<S> I was sure I would get an A if I didn ' t turn in my essay . </S>
+<S> So he ran to the coffee shop . </S>
+<S> The boy bought a bicycle . </S>
+<S> The teacher caught her and praised her ingenuity . </S>
+<S> Somehow , thousands of dollars appeared in his bank account . </S>
+<S> Larry wasn ' t happy to see his Aunt . </S>
+<S> He then went to sleep . </S>
+<S> After that we all decided to go to a restaurant . </S>
+<S> She moved into a smaller , cheaper apartment . </S>
+<S> She was very happy with the teacher . </S>
+<S> Tammy was sad that she didn ' t have a present to give . </S>
+<S> Brad ' s day went very badly . </S>
+<S> Sally then bought a large breakfast . </S>
+<S> She never cooked again . </S>
+<S> My daughter took the post-test on Friday . </S>
+<S> Tom decided to take a trip to the casino , he ignored his family . </S>
+<S> Ted ' s friends thought he would run in the campaign uncontested . </S>
+<S> She decided to watch her favorite comedy show on Netflix . </S>
+<S> The vet suggested a flea collar for Jen ' s pet German shepherd . </S>
+<S> Amy was relieved she didn ' t get any extra money . </S>
+<S> The cats made a mess out of the house ! </S>
+<S> I stopped talking and went home . </S>
+<S> I read a fascinating article . </S>
+<S> I had a terrible time . </S>
+<S> It helped him get a job in construction . </S>
+<S> Ray laughed at the crazy situation . </S>
+<S> I decided to throw my bowling ball on the counter . </S>
+<S> I ate a hamburger . </S>
+<S> Dirk liked how it sounded . </S>
+<S> Alec and his wife decided to go to the movies . </S>
+<S> Gabe decided to purchase a desk for his room . </S>
+<S> Dan yelled at his mom for being picky . </S>
+<S> Susan drove back to the last stop to talk to the strange man . </S>
+<S> Tami bullied Gina until Gina started crying . </S>
+<S> He had a boring day . </S>
+<S> Don was glad he wasn ' t nervous at work . </S>
+<S> Hawaii was not a good place to travel to . </S>
+<S> The police didn ' t question her . </S>
+<S> Bob loved the outfit so much that he showed it to his friends . </S>
+<S> Lo figured the math problem . </S>
+<S> He blamed her for stealing his bike . </S>
+<S> Jay laid down and took a nap . </S>
+<S> Billy wasn ' t thinking about frogs . </S>
+<S> Laura never painted again . </S>
+<S> Jason took a hot shower . </S>
+<S> We then sat down and began to count the cars , </S>
+<S> Bindu hates her friends and parties . </S>
+<S> Fred regretted his stock purchase . </S>
+<S> Carlos books a flight to Australia . </S>
+<S> Harry was glad he saw the movie with his friends . </S>
+<S> I wish he would pass away already . </S>
+<S> Karen felt unmotivated after hearing the speech . </S>
+<S> The meal Joe prepared was piping hot . </S>
+<S> Sarah was lazy . </S>
+<S> I loved all of my professors . </S>
+<S> She ate a huge lunch . </S>
+<S> Mary is sad she sold a car . </S>
+<S> Ava was a neglectful mother . </S>
+<S> I ignored it and went home . </S>
+<S> Bill thought he was the luckiest guy alive . </S>
+<S> Charlie started taking bribes . </S>
+<S> Chad got up the nerve to deliver his comedy routine . </S>
+<S> Neil couldn ' t wait to get back to the hotel so he could watch TV . </S>
+<S> Alice frowned during her picture . </S>
+<S> Sara took a nap . </S>
+<S> Quinton felt depressed . </S>
+<S> Tim was terribly disappointed . </S>
+<S> Flora felt forlorn because she never got to see Europe . </S>
+<S> Betsy threw a fit because it was basically a rodent . </S>
+<S> Joe left his son unattended to move to florida . </S>
+<S> Patricia realized it was a big mistake . </S>
+<S> She couldn ' t wait to get her braces tightened each visit . </S>
+<S> The police put on a community event to raise money . </S>
+<S> Larry was ashamed of what he had done . </S>
+<S> They vowed never to return . </S>
+<S> He sat down at the table with us , and we all had drinks . </S>
+<S> Ellen liked the negative attention . </S>
+<S> Shawn was happy Jane was dead . </S>
+<S> She ate the cake alone at home . </S>
+<S> Amy then left the airplane and drove home . </S>
+<S> Amy thought the park was boring . </S>
+<S> Lobster was Rakesh ' s least favorite food . </S>
+<S> She caught hypothermia . </S>
+<S> Jane was anxious to start tap school . </S>
+<S> Mim pulled back onto the road and drove faster to make up time . </S>
+<S> I left the shell on , and ate them whole . </S>
+<S> His fingernails are way too long . </S>
+<S> Gina licked her plate clean . </S>
+<S> Karmen immediately exited the plane . </S>
+<S> James never cooked again . </S>
+<S> I was very disappointed . </S>
+<S> The friends found Alycia ' s truck . </S>
+<S> Tammy kept working out . </S>
+<S> Anne decided she hated flowers . </S>
+<S> Leeza was having fun . </S>
+<S> Mike started laughing hysterically . </S>
+<S> Mike didn ' t like riding bikes . </S>
+<S> Lester never talked to her again . </S>
+<S> Hester shaved her head . </S>
+<S> The bus never arrived , and we missed our field trip . </S>
+<S> It was the best meal we ever had . </S>
+<S> Toby told me that he doesn ' t like my cat . </S>
+<S> Her boss fired her the next day . </S>
+<S> His parents threw him out of the house . </S>
+<S> Annabelle was very offended . </S>
+<S> They loved playing frisbee . </S>
+<S> We loved the strong wind and lack of sleep . </S>
+<S> Linda ' s classmate wanted her to leave . </S>
+<S> Later , we gave her a bowl of milk . </S>
+<S> She was jumping up and down begging for a walk . </S>
+<S> She drove her car to the mechanic to get it looked at . </S>
+<S> Tori felt even better afterwards . </S>
+<S> My wife cooked dinner . </S>
+<S> Jennifer decided to save up for a car so she could avoid the bus . </S>
+<S> Jill ' s parents took her to Disney World . </S>
+<S> Eric really enjoyed this new bowling alley , he realized . </S>
+<S> She was the best player . </S>
+<S> The dogs attacked the people . </S>
+<S> Ron was given a prize by the store . </S>
+<S> She is very happy no one gave her gifts . </S>
+<S> Haley felt she had been supported admirably . </S>
+<S> Carl hung out with his best friend when they came home . </S>
+<S> The man sadly found nothing that day . </S>
+<S> Kathy took them to the store again right away . </S>
+<S> Melissa ' s mother suggested putting her son to bed later . </S>
+<S> John didn ' t like birds . </S>
+<S> After a month he gave up . </S>
+<S> She went back and had another large serving of deer meat . </S>
+<S> Our teacher told us to go back and remove the pinwheels . </S>
+<S> Mary felt unappreciated . </S>
+<S> John commented on how badly run he thought the place was . </S>
+<S> The little boy accepted that he would never improve . </S>
+<S> Gina ' s mom liked her behavior . </S>
+<S> Jenny was thrilled with her new living situation . </S>
+<S> She was heartbroken . </S>
+<S> I decided to permanently get rid of the nightlight . </S>
+<S> Then Jim shot Tim . </S>
+<S> Jasper is disappointed . </S>
+<S> Joan ' s mother didn ' t speak with her because she was unmarried . </S>
+<S> Veronika did not like the tree house very much . </S>
+<S> Gina ' s father was proud . </S>
+<S> Gina was natural rebel . </S>
+<S> Tom told his parents he hated them . </S>
+<S> Kyle thought Superman was a ridiculous construct . </S>
+<S> We vowed never to return to the Great Wolf Lodge . </S>
+<S> Sammy was not that into coffee . </S>
+<S> She cracked open a beer and took a swig . </S>
+<S> Ally was very subtle . </S>
+<S> Ben was happy after getting the call from the bank . </S>
+<S> Terry was forty five years old . </S>
+<S> Jon and Mika then gave birth to a boy . </S>
+<S> The day was very stressful . </S>
+<S> Lou decided she had lost enough weight . </S>
+<S> Jason was reprimanded at work for not using the PC correctly . </S>
+<S> Harry then quit his hockey team . </S>
+<S> Trent charged two pitchers of sangria to his parent ' s room . </S>
+<S> Bob returned everything the next day . </S>
+<S> Jessica loved the puppy she got from her dad . </S>
+<S> The kids were mad they had to be outside . </S>
+<S> Jasper quits his job the next day . </S>
+<S> I was proud of my willpower . </S>
+<S> Pat is sad . </S>
+<S> Steve was pleased . </S>
+<S> Leah forgot how to speak Spanish . </S>
+<S> He then took it to an empty field and burned it . </S>
+<S> Ida was glad that it didn ' t rain . </S>
+<S> Ivan was happy the hike ended so well . </S>
+<S> Tim is gay . </S>
+<S> He yelled at her and went home . </S>
+<S> Bob continued to use his plastic grocery bags to go shopping . </S>
+<S> Joan went to the restaurant the next night . </S>
+<S> Randy saw the house but kept on driving and didn ' t come back . </S>
+<S> Lorelei chose to get flowers . </S>
+<S> Ben decided to retire . </S>
+<S> She then went swimming at the beach . </S>
+<S> She wished it would grow back . </S>
+<S> He is thrilled about his new responsibilities at work . </S>
+<S> She went home and ate 3 cartons of ice cream . </S>
+<S> The suspect decided to turn himself in . </S>
+<S> The cook praised him . </S>
+<S> I felt like I could run a marathon . </S>
+<S> I asked for a Coke again . </S>
+<S> We decided to keep driving past the airport to the beach . </S>
+<S> Garry and his coach agreed that Nike makes good sneakers . </S>
+<S> Gina disliked spending time with her sister . </S>
+<S> My sister was hiding something from us . </S>
+<S> Emily ' s child walked closer to the lions . </S>
+<S> The man wanted to lose his bet . </S>
+<S> Gina got dehydrated . </S>
+<S> Pretty soon , Tim ' s parents hated the sound of the trumpet . </S>
+<S> Lisa got a degree in business . </S>
+<S> I was really pleased . </S>
+<S> Jack now uses the postal service instead of email . </S>
+<S> The girls decided they never wanted to make candy bars again . </S>
+<S> Monica knit the scarf to donate to an orphanage . </S>
+<S> Ed lost the game . </S>
+<S> I find doing laundry relaxing . </S>
+<S> Suzie ' s relationship with her grandmother remained complicated . </S>
+<S> Addie was put in jail for her crime . </S>
+<S> Her mom gave her an alarm clock . </S>
+<S> Jen put more bleach in her hair . </S>
+<S> Chris was excited to get caught . </S>
+<S> Lela then got over her flu . </S>
+<S> Javier went to the convenience store after school . </S>
+<S> Austin went to the park and played with his dog . </S>
+<S> Both were arrested . </S>
+<S> Shay was finally found weeks later in the woods . </S>
+<S> Meghan decided to quit her job . </S>
+<S> I went to the tennis match alone and had a beer . </S>
+<S> It ' s so gross that I warned my friends to never eat there . </S>
+<S> Sue continued to ride the elephant . </S>
+<S> Ben sipped his apple juice contently . </S>
+<S> The police officer gave me a badge and made me a deputy . </S>
+<S> Ella then became a star piano player . </S>
+<S> Susan left feeling very angry . </S>
+<S> Joe hated rock music afterwards . </S>
+<S> I ended up leaving early because I was sick . </S>
+<S> Joe then punched Tim . </S>
+<S> Steve completed his crossword puzzle in record time . </S>
+<S> Mark was early for work . </S>
+<S> Everyone else got out safely . </S>
+<S> Yvonne felt defeated . </S>
+<S> Anna really liked her new hairstyle . </S>
+<S> Johnson was an avid outdoorsman and hiked often . </S>
+<S> Peter hated science . </S>
+<S> They decided to visit the comedy club upstairs . </S>
+<S> I failed my exam . </S>
+<S> Sarah ' s father took back the telescope . </S>
+<S> Amayah is sad because she doesn ' t want a tea party . </S>
+<S> So she decided to throw it in the garbage . </S>
+<S> The Parker family was frustrated . </S>
+<S> They gave me a book on the history of the computer . </S>
+<S> The team hated Ned . </S>
+<S> Dorothy went to the pet store and bought a new hamster . </S>
+<S> Wendy does not like apples . </S>
+<S> The worker thanked Mark for his patronage . </S>
+<S> Mary was always trying to make Gina happy . </S>
+<S> Sally could not buy anything without any money . </S>
+<S> Paul became a manager at the restaurant . </S>
+<S> Nate laughed with his friends about his dog ' s behavior . </S>
+<S> Fred didn ' t win the lottery . </S>
+<S> They feel foolish for having done so . </S>
+<S> He told her she owed him sixty dollars . </S>
+<S> Our team was ashamed of their performance . </S>
+<S> Sandra was upset that her parents refused to buy her a turtle . </S>
+<S> Jimmy has decided to give away his skateboard . </S>
+<S> Matilda then got a letter from her brother . </S>
+<S> He joined a gang . </S>
+<S> David and Mia thought the movie was profound . </S>
+<S> Neil was not interested in Egyptian history . </S>
+<S> Dan was ashamed of this father . </S>
+<S> I realized I needed noise to sleep . </S>
+<S> I made roasted pork . </S>
+<S> Tim hated mars . </S>
+<S> Andy cried for hours . </S>
+<S> Javier decides to get a smartphone . </S>
+<S> I no longer consider golf a sport . </S>
+<S> The Man was not a building designer . </S>
+<S> After a few years , the States decided to return to England . </S>
+<S> Gary was mad that he didn ' t fall down two flights of stairs . </S>
+<S> Victor realizes he has left his sweatshirt at the gym . </S>
+<S> She had a perfect driving record . </S>
+<S> I hate spaghetti . </S>
+<S> Sam had no car . </S>
+<S> Kelly loves to have visitors . </S>
+<S> Jon was glad he left the house . </S>
+<S> Julie gave Barry a hug and thanked him . </S>
+<S> He decided to go for a run . </S>
+<S> Jake washed his hands . </S>
+<S> That was the best trip of my life . </S>
+<S> Cara left for Vegas . </S>
+<S> David ate a cheeseburger . </S>
+<S> Joe paid for the delivery of some Chinese food . </S>
+<S> Jennifer realized swimming was not her best hobby . </S>
+<S> Rosie kept the bowl of fruit salad in her fridge at home . </S>
+<S> I went on many dates . </S>
+<S> Cole thought about the incident every day afterwards , </S>
+<S> Lulu turned off the dishwasher . </S>
+<S> The kitten was very cute . </S>
+<S> The boy suffered through his childhood . </S>
+<S> Jeff loves visiting with the in-laws . </S>
+<S> Drake told the host he wanted to attend his parties again . </S>
+<S> Harry decided not to help and walked away . </S>
+<S> Ben backed out of the costume contest . </S>
+<S> Buck was angry that the woman would say something like that . </S>
+<S> Deb went to work at the same job she had been at for years . </S>
+<S> The therapist told her she was strange . </S>
+<S> Rachel didn ' t want to know what the letter said . </S>
+<S> Harold decided to throw the package away . </S>
+<S> Kim put her things down and decided to go to a movie instead . </S>
+<S> Laura had a good day in class that day . </S>
+<S> Scott gave him a high five . </S>
+<S> She played basketball with her friends all afternoon . </S>
+<S> Jen hated washing dishes . </S>
+<S> I quickly become very angry at it . </S>
+<S> I regret signing up . </S>
+<S> When we were finished our puppy was full of mud . </S>
+<S> I ' m really disappointed in myself . </S>
+<S> Joey hated camping . </S>
+<S> Fred rolled over and fell off the bed . </S>
+<S> Tina is more tired than ever before . </S>
+<S> Ellen was perfectly comfortable . </S>
+<S> Jay had a good laugh . </S>
+<S> Taylor decided instead to go clothes shopping . </S>
+<S> He finished in first place . </S>
+<S> Ava flushed all the aquarium water down the toilet . </S>
+<S> They all hung out without him and he felt excluded . </S>
+<S> Jane was happy she had to stay and clean the office . </S>
+<S> Ace was happy for his friend . </S>
+<S> Amy hated bright colors . </S>
+<S> Paisley decided to break up with Danny after the picnic . </S>
+<S> I vowed to never get on a plane again . </S>
+<S> Andrew was disappointed he found the ring . </S>
+<S> My husband is so disappointed ! </S>
+<S> Everyone was angry with Albert . </S>
+<S> Maggie ' s cat was dead . </S>
+<S> The popcorn was prepared to perfection . </S>
+<S> Jim threw the ring away . </S>
+<S> Herman decided he wasn ' t hungry anymore . </S>
+<S> Jerry decided later it was easier to collect unemployment . </S>
+<S> They rejoiced at the sight . </S>
+<S> Elaine found it easy to make up her mind . </S>
+<S> They all went back home . </S>
+<S> He quickly bought the film . </S>
+<S> He told Jay the repair would cost nine thousand dollars . </S>
+<S> The restaurant was just too cold . </S>
+<S> Gina always chose bananas over oatmeal . </S>
+<S> I decided to get rid of the car . </S>
+<S> Brant will cancel his plans to kidnap a child . </S>
+<S> I decided to visit Vegas . </S>
+<S> Jose vows never to go to Mexico again . </S>
+<S> Clara liked being outside . </S>
+<S> James drove home with the car window open . </S>
+<S> Gina hated the library . </S>
+<S> Jerry won the marathon . </S>
+<S> Neil played baseball . </S>
+<S> Kim asked her friends if they wanted to go to Starbucks . </S>
+<S> Matt began to laugh . </S>
+<S> Now we all go to the dining hall instead of cooking . </S>
+<S> Drew always wants to obey the law . </S>
+<S> Nina bought a new bike with her earnings . </S>
+<S> Janet was excited to go on a plane . </S>
+<S> We were pleasantly surprised ! </S>
+<S> We told the kids it was thanksgiving . </S>
+<S> Clare wished she brought a warm jacket . </S>
+<S> He fell in love with Aliza and they were married . </S>
+<S> Colin drinks beer at the bar all night . </S>
+<S> Avery dropped out of school . </S>
+<S> Arnold kept and loved his television . </S>
+<S> I can ' t wait to to start the paint-by-numbers set ! </S>
+<S> She decided to never go to a party again . </S>
+<S> Madeline was upset with her new purchase . </S>
+<S> Martha became an expert seamstress after a while . </S>
+<S> Joe went back to sleep . </S>
+<S> Sally cried the rest of her break . </S>
+<S> She then dug up all her flowers . </S>
+<S> Johnny began planning to move to Boston . </S>
+<S> I drove to New York that same night . </S>
+<S> Juliette was bored . </S>
+<S> She broke up with Sam , leaving him heartbroken . </S>
+<S> I found I loved being swollen . </S>
+<S> Darla smashed her television with a rake . </S>
+<S> Mike was ashamed of what he had done . </S>
+<S> Anna doesn ' t like vegetables . </S>
+<S> Brad hated his mother for getting the eggs . </S>
+<S> Julie punched her friend in the eye . </S>
+<S> He no longer had any interest in wrestling . </S>
+<S> Jay wished he had ate more buffalo wings . </S>
+<S> Shawn gave up smoking on the spot . </S>
+<S> We will never camp again . </S>
+<S> Sal felt rotten . </S>
+<S> Their parents jointly threw them a huge party to celebrate . </S>
+<S> Cristin enjoyed seeing her favorite band that night . </S>
+<S> Bella remained silent and skipped her turn . </S>
+<S> Mary disliked Pandas . </S>
+<S> Johnny cries for an hour . </S>
+<S> He never thought of it again . </S>
+<S> I hate school . </S>
+<S> Larry decided to stay home from the party . </S>
+<S> Ron started collecting bottle caps . </S>
+<S> Ashley spent her summer riding her bike instead . </S>
+<S> His eyes glowed with excitement . </S>
+<S> Burke loves interference from strangers . </S>
+<S> Todd wore a silly costume to his hockey game . </S>
+<S> Ralph then asked Pamela to marry her . </S>
+<S> I couldn ' t wait for my friends to leave . </S>
+<S> Matt fiddled with the car radio , looking for a better station . </S>
+<S> Rod was proud of what he had done . </S>
+<S> Arnold loved his girlfriend ' s cats . </S>
+<S> Tina has a baby blanket . </S>
+<S> Todd opened up the bag and spread the leaves around . </S>
+<S> Joyce decided to buy a cookie instead . </S>
+<S> I decided to quit using the computer . </S>
+<S> Nya missed the parade altogether . </S>
+<S> Amber could not find anytime to relax . </S>
+<S> Chuck dropped out of school . </S>
+<S> Sam wanted to get away from his wife as soon as possible . </S>
+<S> Fred told the barista to leave him alone . </S>
+<S> He gives up because it ' s too hard . </S>
+<S> Joe was very disappointed in his team . </S>
+<S> Amy threw the instrument on the floor . </S>
+<S> Suzi hoped the cat would stay in the tree . </S>
+<S> Robert decided he wanted a pet cat . </S>
+<S> Mike and Perry got married . </S>
+<S> The man at the deli said the sandwich would cost more now . </S>
+<S> The little sister was given a cookie for her behavior . </S>
+<S> Eric was fast asleep leaving Stan to fend for himself . </S>
+<S> Pete decided it would be a great time to take a trip to Vegas . </S>
+<S> May went outside and Cathy never saw her again . </S>
+<S> He swam even farther out then his friends dared him too . </S>
+<S> Grandma had to pick the peaches herself . </S>
+<S> Glen ran his best marathon time ever . </S>
+<S> Ellen was disappointed to find out she was having a boy . </S>
+<S> Hannah loved her fingers . </S>
+<S> Marge put a new key on her keychain . </S>
+<S> We found out our friend had gone skiing . </S>
+<S> She spent the money on going out to eat . </S>
+<S> Neil found the trip dull . </S>
+<S> Wendy ran out of the room crying . </S>
+<S> Damon went straight to his room and went to bed . </S>
+<S> Munich looked good in the picture ' s background . </S>
+<S> Tim feels safe when he rides his motorcycle . </S>
+<S> Mike laughed hysterically . </S>
+<S> He decided perhaps basketball was not for him . </S>
+<S> Patrick developed a fear of dogs because of the incident . </S>
+<S> I don ' t love him . </S>
+<S> Morgan was glad the hot water tasted like coffee . </S>
+<S> Matt scored a touchdown at the last minute . </S>
+<S> Henry continued to enjoy the muffin . </S>
+<S> Jim decided to do a handstand . </S>
+<S> Lisa hated baking . </S>
+<S> James was ashamed of what he had done . </S>
+<S> Miriam did not enjoy arguing . </S>
+<S> The family had a horrible day . </S>
+<S> Kate was ashamed of what she had done . </S>
+<S> Gina and her mother went immediately . </S>
+<S> Tracy was happy with Doug . </S>
+<S> Liz got bored of the game and took a nap . </S>
+<S> Karen hated her roommate . </S>
+<S> Betsy wore the monogrammed necklace when she turned 14 . </S>
+<S> Ashley ' s dog was full of live fleas . </S>
+<S> They then played heads down thumbs up . </S>
+<S> The company fixed his television . </S>
+<S> Kelly bought a new phone . </S>
+<S> The two then caused more problems . </S>
+<S> Lonnie did not to camp out . </S>
+<S> Dave was so relieved ! </S>
+<S> Lia hated going to England . </S>
+<S> Jared decided to accelerate . </S>
+<S> Sadly , he was late for the football game . </S>
+<S> Joe hated pizza . </S>
+<S> Jesse ' s parents were excited to see the tattoo . </S>
+<S> Corey didn ' t mind at all . </S>
+<S> Ricky was soaking wet from falling in the pond . </S>
+<S> The lawn mower suddenly started . </S>
+<S> I have never been happier with my dental health . </S>
+<S> Bill started to get ready for school . </S>
+<S> Fred cancelled the bet at the end of the month . </S>
+<S> I drove her to iHop for pancakes and shakes . </S>
+<S> She felt like a complete failure . </S>
+<S> Lynn told Jim the he is unattractive . </S>
+<S> Sarah got the job and was praised for her clear voice . </S>
+<S> Veronica didn ' t care about her well being . </S>
+<S> I went swimming in the lake . </S>
+<S> I am so out of shape I can ' t even bike a mile . </S>
+<S> He cuddled up to the dog . </S>
+<S> Rebecca and Jake both auditioned for the musical . </S>
+<S> The cat ended up a filthy mess . </S>
+<S> I packed all my stuff up again . </S>
+<S> Grace was happy about the ice . </S>
+<S> Nobody seemed to notice what had happened . </S>
+<S> Gina was glad she had wasted her day . </S>
+<S> She took them to the vet to see why they were scratching . </S>
+<S> I now play twice as much . </S>
+<S> Jordan didn ' t like fish tacos at all . </S>
+<S> I think I will start playing football . </S>
+<S> Angie decided to tell the requester to reject more of her work . </S>
+<S> Ann is relieved she is not pregnant . </S>
+<S> Maggie was glad that the wait in line was so short . </S>
+<S> Brianna hated s ' mores . </S>
+<S> Mary Ann finished making her salad and enjoyed eating it . </S>
+<S> Nila did not care for her mother . </S>
+<S> The girls started dancing . </S>
+<S> Derek did not want to leave . </S>
+<S> Mia lost even more money . </S>
+<S> Joey spent her days playing video games . </S>
+<S> Earl and his daughter don ' t like each other . </S>
+<S> To cheer him up Kip ' s parents took him to Florida . </S>
+<S> Gina had a great day . </S>
+<S> Seth thinks he can find a job at the air conditioning factory . </S>
+<S> My truck looked so shiny afterwards . </S>
+<S> The man kept driving for a few more hours . </S>
+<S> Tim decided he didn ' t like music . </S>
+<S> He is an awful chef . </S>
+<S> Evan was pleased . </S>
+<S> Joe finished the fight with no cuts or injuries . </S>
+<S> His wrestling matches were very exciting . </S>
+<S> The boy was grateful . </S>
+<S> Bill ' s neighbors sued him for making them poor . </S>
+<S> Dal made a smart decision . </S>
+<S> She loved being bad at volleyball . </S>
+<S> Bob angrily drove home after the meal . </S>
+<S> Kelly had a neurological disorder that kept her in a wheelchair . </S>
+<S> Jill stopped meditating . </S>
+<S> My mom jumped into the swimming pool . </S>
+<S> She filed for divorce the next day . </S>
+<S> The police told them to keep playing . </S>
+<S> I brought a dog home since I have so many dogs already . </S>
+<S> Joe wanted to chew more rocks . </S>
+<S> Skip ' s parents decided not to get him glasses . </S>
+<S> Then I fell asleep until the next morning . </S>
+<S> Sandy decided to go outside and make a snowman . </S>
+<S> However , she discovered Alaska was a lot of fun . </S>
+<S> I have negative memories of that time . </S>
+<S> He never did understand the best way to fry an egg . </S>
+<S> Robbie and I wore shorts to the restaurant . </S>
+<S> Ethan decided to never make Youtube videos again . </S>
+<S> Rosie waited patiently for Farmer Jones . </S>
+<S> Rase demanded a fair trial . </S>
+<S> We decided the black lab should not come home with us . </S>
+<S> I sleep with my baby blanket every night . </S>
+<S> It ended up dirtier than it was before . </S>
+<S> He went to the sporting goods store to buy bullets . </S>
+<S> His owner began running 12 miles a day . </S>
+<S> Sally hopes to lose her job . </S>
+<S> She turned around and drove home . </S>
+<S> Keri convinced the waiter that he had overcharged her . </S>
+<S> Judy and Bill were highly unprepared . </S>
+<S> He realized biking was not for him , and took a nap instead . </S>
+<S> Lucy failed the test because she had not studied . </S>
+<S> Gina ' s teacher told her she could use her phone . </S>
+<S> Tami wished Gina would shut up , but she just kept talking . </S>
+<S> Kenny then played basketball . </S>
+<S> His son got just what he wanted and was quite happy . </S>
+<S> Louie walked across the sandy beach , lonely . </S>
+<S> Jen lost the spelling bee . </S>
+<S> She threw her ice cream in the garbage . </S>
+<S> My son died and we buried him in the graveyard . </S>
+<S> Eddie loved his new friend . </S>
+<S> I am dishonest . </S>
+<S> In the box was a newborn baby . </S>
+<S> It became too hot and dry for Tory to go out . </S>
+<S> He bought another remote control car for himself . </S>
+<S> Dave took control of the helicopter and landed on the field . </S>
+<S> Dan ' s mother told him to get ready for school . </S>
+<S> Fred was popular . </S>
+<S> Jeb turned on the microwave . </S>
+<S> Tia used the soap bars to wash her dirty dogs . </S>
+<S> Kevin was very angry with Stacy . </S>
+<S> Todd had some great toast . </S>
+<S> The children decided to play marbles . </S>
+<S> Pete kept the wallet and donated the money to charity . </S>
+<S> I was ashamed of what I had done . </S>
+<S> Gina decided to let her niece drive the car off . </S>
+<S> Ryan got promoted . </S>
+<S> Alex skipped his doctor ' s appointment . </S>
+<S> Helen had a wonderful vacation in Canada . </S>
+<S> I was happy with his service . </S>
+<S> Tim decided to never eat noodles again . </S>
+<S> Jessica was very angry with her dad . </S>
+<S> Mario spent the afternoon catching butterflies in the park . </S>
+<S> She couldn ' t wait to be back in the house . </S>
+<S> David learns to play piano . </S>
+<S> Sal was glad he decided to jump rope . </S>
+<S> He refused to give him another scoop . </S>
+<S> Michelle gave the cat to her neighbor . </S>
+<S> I do not enjoy helping people . </S>
+<S> Gina was very happy . </S>
+<S> Tim decided he wasn ' t interested in birds anymore . </S>
+<S> Tom and Jake enjoyed the nice view . </S>
+<S> Bob drove his truck to the market . </S>
+<S> He tore it apart . </S>
+<S> They decided to go to Vegas instead . </S>
+<S> She was mad because Todd wouldn ' t stop talking . </S>
+<S> Gina went to bed . </S>
+<S> Don never went to the lake again . </S>
+<S> When he got home , he prepared to return his three movies . </S>
+<S> The clerk told him where the bacon was located . </S>
+<S> Sam felt quite hopeful . </S>
+<S> Danny hated girls . </S>
+<S> David didn ' t have that much fun and became more nervous . </S>
+<S> Bill was happy to practice every day . </S>
+<S> Ralph ' s mom punishes him for refusing to help . </S>
+<S> They decided not to see each other any more . </S>
+<S> Fred started a mystery novel book club for his friends . </S>
+<S> The shirt fit perfectly . </S>
+<S> Jerry threw his guitar in the trash . </S>
+<S> Linda was very pleased . </S>
+<S> We did not like the dogs . </S>
+<S> She was happy at the turn of events . </S>
+<S> We put the gear away and went our separate ways . </S>
+<S> He was so angry he never spoke to her again . </S>
+<S> After he left the hospital , Joe went surfing . </S>
+<S> Gina doesn ' t care about electronics . </S>
+<S> She hates music . </S>
+<S> Diane decided she hated Karen more than ever before . </S>
+<S> May had a very stressful night . </S>
+<S> Westin cut a perfect slice from the cake . </S>
+<S> Kelly was mad that the Celtics won and not the opposition . </S>
+<S> Gina thought it was really funny . </S>
+<S> Chris bought a motorcycle . </S>
+<S> He decided to stop watching and threw his ticket away . </S>
+<S> I didn ' t buy the pen . </S>
+<S> Lauren wishes she took the bus home . </S>
+<S> My teacher suggested I pursue art school . </S>
+<S> He never went near butterflies again . </S>
+<S> Tyler felt like his parents never let him do anything . </S>
+<S> Kay had to go buy more things . </S>
+<S> When they got home they all had ice cream . </S>
+<S> Tim ' s teacher praised his attentiveness . </S>
+<S> John was very upset that the ice melted . </S>
+<S> Everyone hated the slave trader ' s song . </S>
+<S> Amber enjoyed a relaxing two hour brunch . </S>
+<S> She decided to go to the movies . </S>
+<S> The executive was very angry at what had happened . </S>
+<S> Kids suffered from the computer labs . </S>
+<S> Sally ' s mom threw the roses away after dinner . </S>
+<S> Dave was against the second amendment . </S>
+<S> Henry was happy and thankful . </S>
+<S> The cake looked bad because she put no work into it . </S>
+<S> The tall gentleman asked Tom for a glass of water . </S>
+<S> The mother ignored the child . </S>
+<S> Tad ' s car was in great shape . </S>
+<S> Sal was furious with his wife . </S>
+<S> Tara was a mean girl . </S>
+<S> Jim decided to open another credit card . </S>
+<S> Josh enjoys watching anime with others . </S>
+<S> Lorraine is disappointed . </S>
+<S> Roy decided to leave the fish in the refrigerator . </S>
+<S> We stopped playing in a band together . </S>
+<S> Tom knew it would be expensive to repair his boat . </S>
+<S> The next day I gave the man twenty dollars . </S>
+<S> Tim had little determination . </S>
+<S> I was disappointed when I won . </S>
+<S> Peter was mad at his friend . </S>
+<S> Hailey was excited to see them all again tomorrow . </S>
+<S> Jay thought her nephew was ugly . </S>
+<S> Sara loved the Fourth of July . </S>
+<S> He was a staunch republican . </S>
+<S> Gina fixed herself some lunch . </S>
+<S> They decided they would keep thing that way forever . </S>
+<S> Kelly never talked to her again . </S>
+<S> The teacher joined their conversation . </S>
+<S> Jack abandoned the whole idea of getting a puppy . </S>
+<S> They decided they didn ' t need it anyway , and moved . </S>
+<S> Gina continued to stare . </S>
+<S> She works hard on perfecting her routine on the parallel bars . </S>
+<S> Tina ' s friends knew how unpredictable she was . </S>
+<S> Beth played football on her Friday off . </S>
+<S> My boss fired me on the spot . </S>
+<S> Greg blamed the broken window on another boy . </S>
+<S> Bill made less money as a computer scientist than he did before . </S>
+<S> Carl decided to throw the old bike away . </S>
+<S> Ned went to the gym after work . </S>
+<S> Jim quit playing basketball . </S>
+<S> Bob knew his way around and never used the navigation system . </S>
+<S> They were so quiet , I had to call the police . </S>
+<S> Chester immediately threw out the shirt he bought . </S>
+<S> Ray did a good job brushing his teeth . </S>
+<S> We decided to go swimming on the beach . </S>
+<S> Ron is immediately fired for insubordination . </S>
+<S> Darren turned off the computer . </S>
+<S> Fran suffered a fatal heart attack as she arranged flowers . </S>
+<S> Jill and her friends had a fun girls-only night out . </S>
+<S> Mary ' s friends were very disappointed in her . </S>
+<S> The team asked Jay if they could have burgers instead . </S>
+<S> The people sympathized with the mother and told her it was okay . </S>
+<S> Bev got the mail and fed the fish , just like she did every day . </S>
+<S> Nick gave up because he didn ' t care if his girlfriend won . </S>
+<S> Lina hated donuts . </S>
+<S> I do not have a sister . </S>
+<S> He started screaming obscenities at Meg . </S>
+<S> I was happy about how easy it was to place the order . </S>
+<S> The soccer team congratulated her and gave her a spot on the team . </S>
+<S> He used his selfie stick everyday after that . </S>
+<S> Keira was so proud of her new boyfriend . </S>
+<S> Ben sold his kidney for crack . </S>
+<S> Timmy went to the driving range the day of competition . </S>
+<S> My uncle hates the beach . </S>
+<S> Joey wished his parent ' s appreciated him . </S>
+<S> They pinned a medal on my chest . </S>
+<S> His friends polished his furniture . </S>
+<S> Harry spent the evening happily taking pictures . </S>
+<S> With a look of disgust , he threw the tickets in the trash . </S>
+<S> She asked the coach to find someone else . </S>
+<S> I was very happy about the letter . </S>
+<S> Kathy hated buying shoes . </S>
+<S> White doesn . </S>
+<S> Nickie laughed all night . </S>
+<S> Al and Val went out to eat . </S>
+<S> Try as she might , Kelley couldn ' t find her dog . </S>
+<S> Joyce abandoned her kids shortly after . </S>
+<S> Ronnie quit as soon as he got in . </S>
+<S> I didn ' t mind what the kid was doing . </S>
+<S> Linda and her boyfriend didn ' t want to eat . </S>
+<S> Marco is horrified by the reaction of his boss . </S>
+<S> Chuck was happy that place finally closed down . </S>
+<S> He threw it in the trash . </S>
+<S> They both purchased sportscars with the money . </S>
+<S> It was such a long car trip . </S>
+<S> She also ordered an iPhone . </S>
+<S> He decided to go home and cry . </S>
+<S> She went back to sleep . </S>
+<S> I decided to throw the ring away . </S>
+<S> My dog ran away . </S>
+<S> He was diagnosed with diabetes after gaining forty pounds . </S>
+<S> We went to a dentist who pulled the tooth . </S>
+<S> Bobby stopped liking cats after that day . </S>
+<S> She dyed her hair blonde instead . </S>
+<S> He decided to go turn on his heaters . </S>
+<S> John was very upset with his wife . </S>
+<S> Jimmy hated his mother . </S>
+<S> She threw up . </S>
+<S> They all had poor imaginations . </S>
+<S> Jim decided that he would rather buy a bike instead of a car . </S>
+<S> Janet was relieved . </S>
+<S> We all vowed to never go back again . </S>
+<S> Mike never liked Jeeps . </S>
+<S> I was glad to be home early from school that day . </S>
+<S> If it wasn ' t such easy work she would have quit . </S>
+<S> Will wanted to be a janitor . </S>
+<S> Emma never painted inside a restaurant again . </S>
+<S> Rex went on a long journey across the ocean . </S>
+<S> I was happy with the TV . </S>
+<S> John and Billy were disappointed . </S>
+<S> Jimbo is pleased his boss does not allow smoking . </S>
+<S> Before she finished she decided it was a waste of time . </S>
+<S> It took forever for the sauce to heat up . </S>
+<S> All my clothes smell great . </S>
+<S> Tom closed his windows to block out as much sunlight as possible . </S>
+<S> The Smith ' s cat meowed at the front door . </S>
+<S> Tyler got depressed . </S>
+<S> Emile stopped talking to his friends . </S>
+<S> Tim and Anna decided they would ask their veterinarian . </S>
+<S> The old man told Sam to go home . </S>
+<S> Jen loved her neighbors . </S>
+<S> Jill was depressed . </S>
+<S> I bought every mouse they had . </S>
+<S> We had a boring day . </S>
+<S> Danny decided to go to sleep . </S>
+<S> Nancy couldn ' t wait to get the rest of the pizza . </S>
+<S> Peter let his dog use the chair for its own . </S>
+<S> Ana was extremely pale . </S>
+<S> Gina mowed the whole yard and had no help from anyone . </S>
+<S> Kelly was very happy to have soaking wet clothes . </S>
+<S> He was ashamed of himself . </S>
+<S> He went straight to the cafeteria and had a long dinner . </S>
+<S> Ron was very unhappy that it had snowed so much . </S>
+<S> Jimmy ate another chip from the bag . </S>
+<S> They both felt great after eating the pies . </S>
+<S> Rick had so much money left . </S>
+<S> Ben crushes his alarm clock and buys a chicken . </S>
+<S> He left immediately . , </S>
+<S> Bobby was thirty-five years old . </S>
+<S> Greg judged the chili cook-off competition . </S>
+<S> Jimmy called his parents and cursed at them . </S>
+<S> Allie gained all the weight back she had lost . </S>
+<S> The new baby was a boy . </S>
+<S> Ray ran crying as everyone laughed and pointed . </S>
+<S> Alex decided not to give the cat the medication prescribed . </S>
+<S> They went to the pet store and bought a bird . </S>
+<S> We cursed Mama for what she ' d done . </S>
+<S> Ignacio gave up swimming . </S>
+<S> Gina stole al the soap that was in the bathroom . </S>
+<S> Bonnie called to say she didn ' t want an interview . </S>
+<S> Alicia was happy to be leaving her old house . </S>
+<S> She refused his help and walked away . </S>
+<S> Lina now knew that candy canes were boring . </S>
+<S> I returned my phone . </S>
+<S> It was easy work . </S>
+<S> Harry was so happy to be in the goo . </S>
+<S> Johnny was very happy that he had a flat tire . </S>
+<S> I got on the plane and flew home . </S>
+<S> Watching my brother crash was fun . </S>
+<S> Ben saw Tom and ran for his life . </S>
+<S> Harry had always hated the water . </S>
+<S> Pam was a lousy hostess . </S>
+<S> Sharon couldn ' t wait for Fancy to go . </S>
+<S> Her parents insisted that her grandmother did most of the sewing . </S>
+<S> Ellen had to pay a replacement fee for her library card . </S>
+<S> His professors reassured him that medical school was no picnic . </S>
+<S> Larry loved going to the hospital . </S>
+<S> The two women fell off a cliff . </S>
+<S> Melanie decided that the room looked perfect now . </S>
+<S> The fox then lept behind our dirt bike . </S>
+<S> Jenny found the gum she wanted at the front of the store . </S>
+<S> Amy ' s dad beat her at basketball . </S>
+<S> Maggie has never seen a panda . </S>
+<S> Anna was disappointed . </S>
+<S> She decided to go back home . </S>
+<S> It smelled so good that I ate it . </S>
+<S> Joyce was happy with the new fragrance . </S>
+<S> My parents want to live together . </S>
+<S> Joan was disappointed in her roomate . </S>
+<S> Amy thought the airline had a great sense of humor . </S>
+<S> He was so depressed , he became an alcoholic . </S>
+<S> After that , we got a divorce . </S>
+<S> She was sad to get the promotion . </S>
+<S> Sebastian was disappointed in hit performance . </S>
+<S> Keith ordered a burger and fries . </S>
+<S> He ate a muffin . </S>
+<S> He decided that he did not want to go skiing . </S>
+<S> He bought some soda with it . </S>
+<S> Carl then became a garbage man . </S>
+<S> Izzy is happy . </S>
+<S> Sam ' s dad was glad his son was interested in geology . </S>
+<S> Betsy played tennis afterward . </S>
+<S> I was wearing a red dress . </S>
+<S> So she happily became friends with Jane . </S>
+<S> Rex did his first ever cartwheel that day . </S>
+<S> Matt trained hard to return to being a pianist . </S>
+<S> Craig won the poker match without much trouble . </S>
+<S> Zeke then happily moved to America . </S>
+<S> The bouncer did not allow us into the club . </S>
+<S> I didn ' t water them again . </S>
+<S> But I didn ' t like zebras . </S>
+<S> Carla told her daughter she needed to join more clubs . </S>
+<S> We all decided to go to Vegas . </S>
+<S> Bob never talked to Jenny again . </S>
+<S> Lary ignored it and kept working . </S>
+<S> Jimmy laughed . </S>
+<S> They loved the new look that Tommy chose . </S>
+<S> JJ stayed up all night . </S>
+<S> I did not have anyone to talk to though . </S>
+<S> Don hated elections . </S>
+<S> He never worked out again . </S>
+<S> We put out more red wine bowls after the results we saw . </S>
+<S> Young Reggie told him to stay far away from him . </S>
+<S> Brad decided to go to a rock concert instead . </S>
+<S> She sat on the curb and watched the bus drive past her . </S>
+<S> Kelly did not know how to read . </S>
+<S> Paul was very pleased with his results . </S>
+<S> Lonnie threw the list away . </S>
+<S> The ducks liked me a lot . </S>
+<S> The crowd booed the team loudly . </S>
+<S> Tony would blowout Mark . </S>
+<S> She hated it and switched to black paint . </S>
+<S> Sara was fired . </S>
+<S> Annie ' s family was sad . </S>
+<S> Kayla thought it was the best date she ' d ever had . </S>
+<S> Feeling guilty , I bought a restaurant for the stranger . </S>
+<S> All my socks were accounted for . </S>
+<S> Their mom enjoyed her new , broken vase . </S>
+<S> Logan and Maria were ashamed of the film . </S>
+<S> Terry hated cleaning up . </S>
+<S> Janice decided she didn ' t want to learn how to crack walnuts . </S>
+<S> John was angry because it was snowing . </S>
+<S> Amy was determined to gain weight . </S>
+<S> I loved the new raincoat I bought . </S>
+<S> But she didn ' t want the robin anymore . </S>
+<S> Bob felt very energized . </S>
+<S> I walked off the court and never looked back . </S>
+<S> Eva was afraid of all the squirrels . </S>
+<S> Then I knew that I was great at math ! </S>
+<S> Lee decided to adopt a puppy . </S>
+<S> Christian hates football . </S>
+<S> Todd is proud of himself . </S>
+<S> They fell back in love and stayed together forever . </S>
+<S> Jose threw away his skateboard . </S>
+<S> She ate all her meals in the cabin while on vacation . </S>
+<S> Sven donated the money to charity . </S>
+<S> Helen dreaded seeing outerspace . </S>
+<S> They slept soundly after that . </S>
+<S> My birthday was the best day ever . </S>
+<S> Lucy realized the meal was perfectly cooked . </S>
+<S> They filled their cups with ice . </S>
+<S> Terry ' s sister decided to get surgery on her thumb . </S>
+<S> Gina stopped volunteering because she felt unappreciated . </S>
+<S> When she arrived , she did drugs all day . </S>
+<S> Then I ran towards the snake . </S>
+<S> Ronald put on his shoes and laced them up . </S>
+<S> Ben asked his grandfather when they could go fishing next . </S>
+<S> I decided to watch movies all night . </S>
+<S> I suggested we choose a different movie . </S>
+<S> Then I took the tire off and left him stranded . </S>
+<S> After she finished studying , Sally collected firewood . </S>
+<S> Aya was very upset about the outcome of the contest . </S>
+<S> I was ashamed of my phone . </S>
+<S> Derek never read again . </S>
+<S> It made them depressed . </S>
+<S> Marcy stopped talking to her friend . </S>
+<S> Tom loved the idea of a fast . </S>
+<S> Lydia wished the dream were real . </S>
+<S> She turned on the stove and made herself dinner . </S>
+<S> I really enjoyed having my party with friends . </S>
+<S> John knew his papaya farm needed new capital investment . </S>
+<S> I told my mom to keep using my credit card . </S>
+<S> Sal was excited to be an instant millionaire . </S>
+<S> Doug ' s wife was angry . </S>
+<S> Alice messaged a cute guy she saw on Tinder . </S>
+<S> Cole was upset that all of his vegetables went to waste . </S>
+<S> Lamar walked to the park . </S>
+<S> The Malamute ' s owner never took him to the slide again . </S>
+<S> Cindy was very experienced . </S>
+<S> That extra practice improved Amber ' s fielding skills . </S>
+<S> Lewis started to dance . </S>
+<S> Sophie laughed in her face . </S>
+<S> Frank switched to tea and donated the coffee maker . </S>
+<S> Tommy was then badly injured . </S>
+<S> Frank enrolled in a marine biology class . </S>
+<S> The driver of the car became very angry at me . </S>
+<S> After graduation , she realized she hated the News . </S>
+<S> The whole family was glad Cinnamon left . </S>
+<S> As a vegetarian , I refused to eat the chicken sandwich . </S>
+<S> I was so happy . </S>
+<S> She then scared away the squirrels . </S>
+<S> Gina walked down the highway without her family . </S>
+<S> My roommate was very pleasant to live with . </S>
+<S> Oliver was sick of his friend ' s unwanted advice . </S>
+<S> I think violence is inspiring . </S>
+<S> Tommy decided to ask the girl for a date . </S>
+<S> She was shot and vowed to never go there again . </S>
+<S> Laura was then impeached by the country . </S>
+<S> I was ashamed of what I had done . </S>
+<S> He was mauled by a lion . </S>
+<S> My parents bought matching mopeds . </S>
+<S> We decided to return home instead . </S>
+<S> Emmy left angry because she wanted a dog . </S>
+<S> Jenny picked up the sweater . </S>
+<S> Jackie was happy her car was undamaged . </S>
+<S> Billy was very disorganized . </S>
+<S> John ran away screaming in terror . </S>
+<S> She didn ' t want to have anything to do with that camp . </S>
+<S> Joe decided he didn ' t want to go to college . </S>
+<S> She decided to buy more toothpaste . </S>
+<S> Laverne doesn ' t go to her friend ' s party . </S>
+<S> Jenny continued to drive straight . </S>
+<S> I still go to same theatre that I always have . </S>
+<S> Gary then bought something from the machine at work . </S>
+<S> He was ashamed that he didn ' t get any recognition . </S>
+<S> I thought Jack was very rude . </S>
+<S> Brian was not very creative . </S>
+<S> I put it in the middle of the room like my mom suggested . </S>
+<S> The boy punched her in the face . </S>
+<S> Henry decided not to do the scavenger hunt . </S>
+<S> John was happy about being rejected . </S>
+<S> Samantha hates autumn . </S>
+<S> Cameron went to the movies and watched Ghostbusters . </S>
+<S> Amy then drove to school . </S>
+<S> Max ' s teacher ' s praised his creativity . </S>
+<S> But they didn ' t have any fun . </S>
+<S> Jake did not have fun that day . </S>
+<S> I was very ashamed of my performance . </S>
+<S> She bought more cable boxes . </S>
+<S> Tommy started playing guitar . </S>
+<S> Allison thinks bingo is boring . </S>
+<S> Ryan decided not to ride his bike anymore . </S>
+<S> Sam and John ran from the group of boys . </S>
+<S> They vowed never to return . </S>
+<S> Tony was hired immediately and succeeded . </S>
+<S> Anthony could not get the language down properly . </S>
+<S> She never told Tom . </S>
+<S> My professor congratulated me . </S>
+<S> Arthur felt good about taking the last one anyway . </S>
+<S> That is why I only play Frisbee outside . </S>
+<S> Ella was unscathed from the fall . </S>
+<S> Lina made her kids wear clothes from the pile . </S>
+<S> John went to the movies by himself . </S>
+<S> He then ran away with the small ball . </S>
+<S> They spent the money on candy . </S>
+<S> Then she threw the pinecones in the garbage . </S>
+<S> The coach offered the boy the starting pitcher position . </S>
+<S> Tom thought it was the best hockey game ever . </S>
+<S> The talent show told Oni to never come back . </S>
+<S> Mark and Frank hit her again . </S>
+<S> Jane loves biking , hiking and walking her dog . </S>
+<S> I felt more lonely . </S>
+<S> Maggie was sad and lonely . </S>
+<S> I decided to forfeit the game . </S>
+<S> Ranger fans want him to go away . </S>
+<S> She asked her father , because he had always been great to her . </S>
+<S> Amy told Kim she was a big loser . </S>
+<S> Donna wished I would wake up . </S>
+<S> He always enjoyed a nice nap in his hammock . </S>
+<S> They broke up after . </S>
+<S> I let my dog go inside the house . </S>
+<S> Jay thought Burger King was awesome . </S>
+<S> Brendon couldn ' t believe he was soaking wet . </S>
+<S> The doctor told Tim that Emily went for a run . </S>
+<S> My daughter was disappointed . </S>
+<S> Harrison got angry with Emily . </S>
+<S> The children threw the money in the street . </S>
+<S> Sara laughed hysterically . </S>
+<S> My family only ate vegetables . </S>
+<S> She continued playing with the ball all afternoon . </S>
+<S> Jennifer wanted more food . </S>
+<S> I decided to glue the hair back on . </S>
+<S> Ann felt insulted by the lady ' s offer . </S>
+<S> He poured the majority of it down the drain of the sink . </S>
+<S> In the spring he decided not to start a garden . </S>
+<S> Rob was disappointed . </S>
+<S> Ken made an excuse to leave quickly . </S>
+<S> Mary left the dentist in a great mood . </S>
+<S> Arnold was calm and happy to the see the bird . </S>
+<S> He was happy about his computer . </S>
+<S> Stephanie pushed herself up with her hands . </S>
+<S> Stewart was glad that he remembered to keep the fire going . </S>
+<S> Brad ' s mother was rather uncaring . </S>
+<S> She was glad she is never bored of music . </S>
+<S> Elle hated driving . </S>
+<S> My son and I did not do well . </S>
+<S> They had a great time at the museum . </S>
+<S> Tom was upset that he did poorly . </S>
+<S> I enjoyed talking to the officer . </S>
+<S> Lilly ' s finger had to be amputated . </S>
+<S> The zookeeper was glad to find the rhino sleeping in its cage . </S>
+<S> Jenny ' s boss gave her a raise . </S>
+<S> She bought two skirts and a blouse . </S>
+<S> Greg was more bored than ever . </S>
+<S> Brain enjoyed eating the vegetable . </S>
+<S> He was pleased . </S>
+<S> Felipe swore he would never go back to such a lousy place . </S>
+<S> John then went golfing . </S>
+<S> Bob ran away in terror . </S>
+<S> People were very happy when I played this game without them . </S>
+<S> Bob enjoyed using his binoculars . </S>
+<S> John had a wonderful evening . </S>
+<S> Sandy threw her bed away . </S>
+<S> The judge convicted him of murder . </S>
+<S> Juan went back to the store . </S>
+<S> Frankie went to see a movie . </S>
+<S> The teacher was happy I slept in detention . </S>
+<S> I happily played tennis in my new , uncomfortable shoes . </S>
+<S> She fled in terror . </S>
+<S> And saw the biggest bear she had ever seen . </S>
+<S> Jan threw away the books . </S>
+<S> They took their clothes off to sunbathe . </S>
+<S> Jeff was going to miss that dog . </S>
+<S> Jeb got the date but never ate peppermints again . </S>
+<S> I gave Pan a big hug . </S>
+<S> Jim was happy to see the officer . </S>
+<S> Steve ' s wife filed for divorce that same day . </S>
+<S> He made sure all of his bills were paid on time . </S>
+<S> Ashley couldn ' t buy anything because she was broke . </S>
+<S> Tammy never spoke to Abby again . </S>
+<S> She made sure to thank the fast food cashier . </S>
+<S> Barry turned around and went home . </S>
+<S> Billy was very happy . </S>
+<S> And the US army got back to her . </S>
+<S> We decided to sell our candy to a local boutique . </S>
+<S> Tina joined the high school dancing team . </S>
+<S> The parents had another baby . </S>
+<S> We brought home six bags of items . </S>
+<S> Jimmy then learned to cook well from the tutorials . </S>
+<S> She returned all of the presents for cheaper ones . </S>
+<S> Jeremiah continues to work outside . </S>
+<S> Vivienne soon received her visa in the mail . </S>
+<S> Remy felt it was a good idea to spill more milk on the carpet . </S>
+<S> Maureen said girls didn ' t belong in science professions . </S>
+<S> The group got to Las Vegas with no issues . </S>
+<S> He hates his grandmother . </S>
+<S> She was a lazy employee . </S>
+<S> When Nathan returned , he felt very happy for the exercise . </S>
+<S> Jill was glad that they arrived so quickly . </S>
+<S> Jerry couldn ' t wait for his next bike trip . </S>
+<S> Katie was the happiest she had ever been . </S>
+<S> Reg hoped it would never snow again . </S>
+<S> Stacey got back in her car and drove to work . </S>
+<S> Mary was so distraught ! </S>
+<S> Howard sat and cried the whole time . </S>
+<S> Lester ' s team plays against the other school ' s basketball team . </S>
+<S> Our dog really enjoys having the house to himself . </S>
+<S> Josie loved spiders . </S>
+<S> Ella ' s family was mad at her the rest of the day . </S>
+<S> He changed his mind and returned to watching TV . </S>
+<S> Bob decided to go to the beach . </S>
+<S> The public reaction to the book means Bob still goes hungry . </S>
+<S> Jon then watched germs with his microscope . </S>
+<S> Gina was happy of the outcome in the house . </S>
+<S> Anna soon returned the fish to the store . </S>
+<S> She realized how boring his life was . </S>
+<S> Katie decided to pour the milk down the drain . </S>
+<S> Tracey ran back home . </S>
+<S> Alex bought a yacht . </S>
+<S> Sean eventually moved to a huge house . </S>
+<S> Overall I was dissatisfied with the night . </S>
+<S> Someday , she told herself , she would get a full-body massage . </S>
+<S> Tim decided to stay home and watch TV . </S>
+<S> Amy was pleased . </S>
+<S> That ' s why I take two of them every day . </S>
+<S> School stayed open longer than usual . </S>
+<S> So my friend left and went home . </S>
+<S> John then felt sick the rest of the day . </S>
+<S> Lance never spoke to Adam again . </S>
+<S> He threw the box in the closet . </S>
+<S> I got my car registered and drove it around all day . </S>
+<S> He thought college was going to be miserable . </S>
+<S> She hoped she would soon be sick again . </S>
+<S> So I went outside to play . </S>
+<S> Lizzy decided she did not like bananas . </S>
+<S> Alice felt her friends were very thoughtful . </S>
+<S> She threw the wig into the trash . </S>
+<S> The orchids would be ugly . </S>
+<S> I left after the first forty five minutes . </S>
+<S> She bought a new couch to replace it . </S>
+<S> Joe hoped the stones were worthless . </S>
+<S> Bob ' s decision to embezzle from his employer was a mistake . </S>
+<S> I knew someone would soon return the phone . </S>
+<S> Meg could not think of where they could be . </S>
+<S> I was very pale when I got home . </S>
+<S> Neil and Fez became best friends . </S>
+<S> Francisco became a good surfer . </S>
+<S> Benjamin did not enjoy the park . </S>
+<S> Both cats were very healthy . </S>
+<S> Her in-laws thought the cranberry sauce was much too sweet . </S>
+<S> He decided to serve meatloaf instead . </S>
+<S> Juan was always impatient . </S>
+<S> I got up and ran a marathon . </S>
+<S> We ran in hopes of improving our speed . </S>
+<S> All of the eggs landed safely . </S>
+<S> Ann and Tori continued to shop . </S>
+<S> Ted got in his car and drove home . </S>
+<S> Nya decided to eat the same thing everyday . </S>
+<S> Trip stopped eating watermelon completely . </S>
+<S> The mother played some hip hop for her baby . </S>
+<S> She donates the boots to the thrift store . </S>
+<S> Joey took his baseball and went home . </S>
+<S> She then yelled for them to get back to work . </S>
+<S> Sally thought her sister was cruel . </S>
+<S> Franz vows to never visit his cousin again . </S>
+<S> Gina hated her grandma . </S>
+<S> Tony was scared of the ocean . </S>
+<S> Kev was excited to try out his new gun . </S>
+<S> Joe dumped the pot outside because he hated soup . </S>
+<S> John hoped he would not get well . </S>
+<S> He decided not to try out for the team . </S>
+<S> Child protection services removed him from the home . </S>
+<S> Maggie wanted to be alone . </S>
+<S> The food was too unhealthy for Sara . </S>
+<S> We decided to leave without visiting the exhibit . </S>
+<S> Harry disliked Mary . </S>
+<S> Nina bought a toy . </S>
+<S> They gave the baby sitter a good review . </S>
+<S> David then uploaded his new video . </S>
+<S> Jaden ' s girlfriend slapped in the face . </S>
+<S> They had no children . </S>
+<S> Laurie went home crying . </S>
+<S> Kay used the raft for firewood . </S>
+<S> I have no computer . </S>
+<S> John was an outstanding worker . </S>
+<S> I always ate there when I wanted to save money ! </S>
+<S> Phil was angry at his friends . </S>
+<S> Harry thought the steak was delicious . </S>
+<S> Humberto jumped on his trampoline all day the next day . </S>
+<S> Don threw his comics in the trash . </S>
