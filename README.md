@@ -1,6 +1,6 @@
 # Story Cloze NLU
 
-Project contains Three parts
+Project contains four parts
 
 ### Incorrect Ending Generator
 Generating incorrect endings using dependency parse of the training sentences and contradicting them.
